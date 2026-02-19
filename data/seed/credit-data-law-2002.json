@@ -1,0 +1,67 @@
+{
+  "id": "credit-data-law-2002",
+  "type": "statute",
+  "title": "חוק נתוני אשראי, תס\"ב-2002",
+  "title_en": "Credit Data Law, 5762-2002",
+  "short_name": "CDL",
+  "status": "in_force",
+  "issued_date": "2002-01-01",
+  "in_force_date": "2002-01-01",
+  "url": "https://www.nevo.co.il/law_html/law01/999_611.htm",
+  "description": "The Credit Data Law 5762-2002 regulates the collection, processing, and dissemination of credit data in Israel. It establishes the Credit Data System, regulates credit bureaus, and provides individual rights regarding credit reports.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Purpose",
+      "content": "Section 1. Purpose. The purpose of this Law is to promote fair and efficient provision of credit while protecting the privacy of individuals in respect of information about their credit."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Definitions",
+      "content": "Section 2. Definitions. In this Law: \"credit data\" - data on the financial conduct of a person, including data about credit or financial obligations, debts, payment history, legal proceedings in connection with debts, bankruptcies, and restrictions on bank accounts; \"credit bureau\" - a body that collects, processes, and provides credit data; \"credit report\" - a report prepared by a credit bureau on the basis of credit data."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Credit Data System",
+      "content": "Section 3. Credit Data System. (a) The Bank of Israel shall operate a credit data system for the purpose of collecting and providing credit data. (b) The credit data system shall contain data provided by credit providers, enforcement authorities, and other sources as prescribed by law."
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "Right of Access",
+      "content": "Section 7. Right of Access. (a) Every person has the right to access the credit data held about him by a credit bureau. (b) A credit bureau shall provide a person with a copy of his credit report within 14 days of the request. (c) One credit report per year shall be provided free of charge."
+    },
+    {
+      "provision_ref": "sec8",
+      "section": "8",
+      "title": "Right of Correction",
+      "content": "Section 8. Right of Correction. (a) A person who finds that credit data held about him is inaccurate, incomplete, or misleading may request the credit bureau to correct the data. (b) The credit bureau shall investigate the request and, if the data is found to be inaccurate, correct it within 30 days."
+    },
+    {
+      "provision_ref": "sec15",
+      "section": "15",
+      "title": "Data Retention",
+      "content": "Section 15. Data Retention. (a) Credit data shall not be retained for more than 7 years from the date of the relevant event. (b) Data regarding debts that have been fully repaid shall not be retained for more than 3 years from the date of full repayment."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "credit data",
+      "definition": "Data on the financial conduct of a person, including data about credit, financial obligations, debts, payment history, legal proceedings in connection with debts, bankruptcies, and restrictions on bank accounts",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "credit bureau",
+      "definition": "A body that collects, processes, and provides credit data",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "credit report",
+      "definition": "A report prepared by a credit bureau on the basis of credit data",
+      "source_provision": "sec2"
+    }
+  ]
+}

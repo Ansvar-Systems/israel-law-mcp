@@ -1,0 +1,92 @@
+{
+  "id": "basic-law-human-dignity-1992",
+  "type": "statute",
+  "title": "חוק יסוד: כבוד האדם וחירותו",
+  "title_en": "Basic Law: Human Dignity and Liberty, 5752-1992",
+  "short_name": "BL-HDL",
+  "status": "in_force",
+  "issued_date": "1992-03-17",
+  "in_force_date": "1992-03-17",
+  "url": "https://m.knesset.gov.il/EN/activity/documents/BasicLawsPDF/BasicLawLiberty.pdf",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Basic principles",
+      "content": "The basic human rights in Israel are based on the recognition of the value of the human being, the sanctity of his life, and his being a free person, and they shall be upheld in the spirit of the principles included in the Declaration of the Establishment of the State of Israel. Purpose"
+    },
+    {
+      "provision_ref": "sec1a",
+      "section": "1a",
+      "title": "Purpose",
+      "content": "The purpose of this Basic Law is to protect human dignity and liberty, in order to embed the values of the State of Israel as a Jewish and democratic state, in a basic law. Preservation of life, body and dignity"
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Preservation of life, body and dignity",
+      "content": "One should not violate the life, body, or dignity of a human being as such. Protection of property"
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Protection of property",
+      "content": "The property of a human being shall not be violated. Protection of life, body and dignity"
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Protection of life, body and dignity",
+      "content": "Every human being is entitled to protection of his life, body and dignity. Personal liberty"
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "Personal liberty",
+      "content": "The liberty of a human being shall not be taken or restricted, by means of imprisonment, detention, extradition, or in any other manner. Departure from the State of Israel, and"
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "Departure from the State of Israel, and",
+      "content": "(a) Every person is free to exit Israel. entry to it Privacy and intimacy"
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "Privacy and intimacy",
+      "content": "(b) Every Israeli citizen who is abroad is entitled to enter Israel. (a) Every person has a right to privacy and to intimacy in his life. (b) There shall be no entry into the private premises of a person, without his permission. (c) No search shall be held on the private premises of a person, upon his body, in his body, or among his private effects. (d) The confidentiality of conversation of a person, his writings or his records shall not be violated. Violation of rights (Amendment No. 1)"
+    },
+    {
+      "provision_ref": "sec8",
+      "section": "8",
+      "title": "Violation of rights",
+      "content": "One is not to violate the rights accorded by this Basic Law save by means of a law that corresponds to the values of the State of Israel, which serves an appropriate purpose, and to an extent that does not exceed what is required, or on the basis of a law, as aforementioned, by force of an explicit authorization therein. Reservation regarding the security forces"
+    },
+    {
+      "provision_ref": "sec9",
+      "section": "9",
+      "title": "Reservation regarding the security forces",
+      "content": "The rights of persons serving in the Israel Defense Forces, the Israel Police, the Prisons Service, and other security organizations of the State, shall not be limited under this Basic Law, nor shall these rights be subject to conditions, save by virtue of a law, or by regulation enacted by virtue of a law, and to an extent that does not exceed what is required by the essence and nature of the service. Retention of laws"
+    },
+    {
+      "provision_ref": "sec10",
+      "section": "10",
+      "title": "Retention of laws",
+      "content": "This Basic Law shall not affect the validity of any law that existed prior to the inception of the Basic Law. Applicability"
+    },
+    {
+      "provision_ref": "sec11",
+      "section": "11",
+      "title": "Applicability",
+      "content": "Each and every government authority is obliged to respect the rights in accordance with this Basic Law. Stability of the law"
+    },
+    {
+      "provision_ref": "sec12",
+      "section": "12",
+      "title": "Stability of the law",
+      "content": "Emergency regulations do not have the power to change this Basic Law, to temporarily suspend it, or to lay down conditions to it. However, when a state of emergency exists in the State, by virtue of a declaration under article 9 of the Law and Administration Ordinance 5708-1948, emergency regulations may be enacted on the basis of the said article, that will involve denial or limitation of rights under this Basic Law, provided that the denial or limitation shall be for a worthy purpose, and for a period and an extent that do not exceed the required."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,201 @@
+{
+  "id": "computer-law-1995",
+  "type": "statute",
+  "title": "חוק המחשבים, תשנ\"ה-1995",
+  "title_en": "Computers Law, 5755-1995",
+  "short_name": "CL",
+  "status": "in_force",
+  "issued_date": "1995-07-25",
+  "in_force_date": "1995-10-25",
+  "url": "https://www.unodc.org/cld/uploads/res/document/computer-law_html/Israel_Computers_Law_5755_1995.pdf",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "chapter": "Chapter One: Definitions",
+      "section": "1",
+      "title": "Definitions",
+      "content": "In this Law – “computer material” - software or information; “computer” - a device that operates by means of software program for performing arithmetic or logic processing of data, as well as its peripheral equipment, including computers system, but excluding auxiliary computer; “auxiliary computer” - a computer capable of performing arithmetical calculation actions only and actions entailed in performing such actions; “information” - data, signs, concepts or instructions, excluding software program, which are expressed in computer-readable language, and which are stored in a computer or another means of storage, provided that the data, signs, concepts or instructions are not intended for use solely in an auxiliary computer; “output” - data, signs, concepts or instructions that are produced, in any manner, by a computer; “computer-readable language” - a form of expression suitable for delivery, interpretation or processing by a computer or an auxiliary computer only; “software program” - a set of commands expressed in computerreadable language, which is capable of causing a computer to function or to perform an action, and is embodied, imprinted, or marked on a device or object, by electronic, electromagnetic, electrochemical, electro-optic means or any other means, or is imprinted or integrated with the computer in any manner or is separate from it, and all if not intended for use solely in an * Published in Sefer Hachukkim 5755 No. 1534, 25 July 1995 p. 366 (P.L. 5754 No. 2278 p. 478). auxiliary computer. Disrupting or interfering with a computer or computer material"
+    },
+    {
+      "provision_ref": "sec2",
+      "chapter": "Chapter Two: Computer Offenses",
+      "section": "2",
+      "title": "",
+      "content": "A person who unlawfully does one of the following, shall be liable to imprisonment for a period of three years: (1) Disrupts the proper operation of a computer or interferes with its use; (2) Deletes computer material, alters it, disrupts it in any other way or interferes with its use. False information or false output"
+    },
+    {
+      "provision_ref": "sec3",
+      "chapter": "Chapter Two: Computer Offenses",
+      "section": "3",
+      "title": "",
+      "content": "3. (a) A person who does one of the following shall be liable to imprisonment for a period of five years: (1) Transfers to another person or stores in a computer false information or performs an action with respect to information so it would result in the production of false information or false output; (2) Writes software program, transfers software program to another person or stores software program in a computer, so it would result in the production of false information or false output, or operates a computer while using software program as aforesaid. (b) In this section, “false information” and “false output” - information or output that can mislead, pursuant to the objectives of their use. Unlawful penetration into computer material"
+    },
+    {
+      "provision_ref": "sec4",
+      "chapter": "Chapter Two: Computer Offenses",
+      "section": "4",
+      "title": "",
+      "content": "A person who unlawfully penetrates computer material located in a computer, shall be liable to imprisonment for a period of three years; for this purpose, “penetration into computer material” - penetration by means of communication or connection with a computer, or by operating it, but excluding penetration into computer material which constitutes eavesdropping under the Eavesdropping Law, 5729 – 1979. Penetration into computer material in order to commit another offense"
+    },
+    {
+      "provision_ref": "sec5",
+      "chapter": "Chapter Two: Computer Offenses",
+      "section": "5",
+      "title": "",
+      "content": "A computer virus"
+    },
+    {
+      "provision_ref": "sec6",
+      "chapter": "Chapter Two: Computer Offenses",
+      "section": "6",
+      "title": "",
+      "content": "6. (a) A person who composes a software program in a manner that A person who performs an act prohibited under Section 4, in order to commit an offense under any law, excluding this Law, shall be liable to imprisonment for a period of five years. enables it to cause damage to or disruption of a non-specific computer or computer material, in order to unlawfully cause damage to or disruption of a computer or computer material, whether specific or non-specific, shall be liable to imprisonment for a period of three years. (b) A person who transfers software program to another, or who infiltrates another's computer with, a software program that is capable of causing damage or disruption as aforesaid in Subsection (a), in order to unlawfully cause the aforesaid damage or disruption, shall be liable to imprisonment for a period of five years. Civil wrongs"
+    },
+    {
+      "provision_ref": "sec7",
+      "chapter": "Chapter Three: Torts",
+      "section": "7",
+      "title": "",
+      "content": "7. An act among those specified below is a civil wrong under the Civil Torts Ordinance [New Version], and the provisions of that Ordinance shall apply to it – (1) Unlawful disruption of the use of a computer or of computer material, in any manner whatsoever, including by unlawfully taking a thing that embodies computer material; (2) Deletion of computer material, causing a change in it or disrupting it in any other manner, where done unlawfully. Burden of proof"
+    },
+    {
+      "provision_ref": "sec8",
+      "chapter": "Chapter Three: Torts",
+      "section": "8",
+      "title": "",
+      "content": "8. In a lawsuit filed under this Chapter, the defendant shall bear the burden of proving that the action was done lawfully. Compensation"
+    },
+    {
+      "provision_ref": "sec9",
+      "chapter": "Chapter Three: Torts",
+      "section": "9",
+      "title": "",
+      "content": "9. No compensation shall be granted in a lawsuit under this Chapter, unless it was proven that the damage was caused as a result of the negligence of the defendant. Clause A: Laws of Evidence Amendment to the Evidence Ordinance – No. 11"
+    },
+    {
+      "provision_ref": "sec10",
+      "chapter": "Chapter Four: Legislative Amendments",
+      "section": "10",
+      "title": "",
+      "content": "10. In Chapter Two of the Evidence Ordinance [New Version], 5731 – 1971, (1) In Article Five – (a) In the Article's headline, “institutional record” shall replace “bank records”; (b) Sections 35 and 36 shall be replaced by the following: “Definitions"
+    },
+    {
+      "provision_ref": "sec35",
+      "chapter": "Chapter Four: Legislative Amendments",
+      "section": "35",
+      "title": "",
+      "content": "35. In this article – \"legal proceeding\" - any civil or criminal proceeding in Court, in which evidence may be presented; \"institution\" - the State, a local authority, business or anyone who provides a service to the public; \"business\" - including an occupation; \"output\" - as defined in the Computers Law,5755-1995; \"institutional record\" - a document, including output, which is prepared by an institution during the course of the regular work of the institution; \"banking corporation\" - as defined in the Banking (Licensing) Law, 5741 – 1980, and including the Bank of Israel. Admissibility of an institutional record"
+    },
+    {
+      "provision_ref": "sec36",
+      "chapter": "Chapter Four: Legislative Amendments",
+      "section": "36",
+      "title": "",
+      "content": "36. (a) An institutional record will constitute admissible evidence for proving the veracity of its content in any legal proceeding, if all of the following are met – (1) The institution regularly, in the course of its work, keep documentation of the event that is the subject of the record in close proximity to its occurrence; (2) The method of collecting data which is the subject of the record and the method of documenting the record testify to the veracity of the content of the record; (3) If the record is output – it was proven in addition that – (a) The way the record is produced testifies to its credibility; (b) The institution regularly adopts reasonable protection measures against penetration into computer material and against disruption of the computer's operation. (b) If the record is output, the date of documenting the data that comprises the basis of the output will be considered, for the purposes of subsection (a)(1), as the date of the record's documentation. (c) The directives of Subsection (a) shall not apply to a record that was documented by one of the investigative authorities or the criminal prosecution and is submitted in a criminal proceeding by such an authority. This Subsection does not disqualify or restrict the submission of such record, if it is possible to submit it in accordance with the stipulations of Section 39B. (d) If evidence is admitted under this Section, the opposing side will be entitled to conduct a crossexamination of witnesses it summons to testify, in order to refute the evidence, if these witnesses are connected to the party on whose behalf the evidence was submitted.” (c) Section 37 shall be deleted; (d) Section 38 shall be replaced by the following: “Non-compulsion of submission of an institutional record of a banking corporation"
+    },
+    {
+      "provision_ref": "sec38",
+      "chapter": "Chapter Four: Legislative Amendments",
+      "section": "38",
+      "title": "",
+      "content": "In the course of a legal proceeding in which a banking corporation is not a party, a banker or an official of a banking corporation, shall not be compelled to submit an institutional record of a banking corporation whose content is subject to verification under this Clause, or to testify about transactions or accounts registered in the institutional record, unless under a court warrant issued for a special reason.” (e) In Section 39 – (1) The headline shall be replaced by “Permission to examine an institutional record of a banking corporation”; (2) In Subsection (a), the words “that is within the institutional record of a banking corporation” shall replace the words “that is within a bank book” ; (3) In Subsection (b), the words “the banking corporation” shall replace the words “the bank\"; the words “to the banking corporation” shall replace “to the bank”, and the word “instruction” shall be deleted. (f) The following shall be inserted after Section 39: “Expert opinion"
+    },
+    {
+      "provision_ref": "sec39A",
+      "chapter": "Chapter Four: Legislative Amendments",
+      "section": "39A",
+      "title": "",
+      "content": "If the output is a statement of opinion in a matter of science, research, art, professional knowledge or a medical matter, the output will not be admissible as evidence unless it was submitted in accordance with the directives of the law that apply to the submission of testimony on these matters. Reservation of laws"
+    },
+    {
+      "provision_ref": "sec39B",
+      "chapter": "Chapter Four: Legislative Amendments",
+      "section": "39B",
+      "title": "",
+      "content": "39B. (a) The directives of this Clause will not qualify evidence that is inadmissible due to another reason, excluding the hearsay rule, and shall not disqualify or limit the submission of evidence that is admissible according to the aforementioned rules or another law. (b) In this Section and in Section 39A, \"law\" includes a decided ruling.” (2) In Clause F – (a) The following shall be added after Section 41: “Copy of institutional record"
+    },
+    {
+      "provision_ref": "sec41A",
+      "chapter": "Chapter Four: Legislative Amendments",
+      "section": "41A",
+      "title": "",
+      "content": "41A. The content of an institutional record can be proven by a photocopy of the record. Status of output"
+    },
+    {
+      "provision_ref": "sec41B",
+      "chapter": "Chapter Four: Legislative Amendments",
+      "section": "41B",
+      "title": "",
+      "content": "41B. For the purpose of this Clause, output that is an institutional record will not be considered a copy of the document from which it was produced, but as the original.” (b) In Section 42, the words “this article” shall replace “Section 41”, and “this Section” shall replace “the aforesaid Section”. Clause B: Laws of Search and Seizure Amendment to the Criminal Procedure (Arrest and Search) Ordinance – No. 6"
+    },
+    {
+      "provision_ref": "sec11",
+      "chapter": "Chapter Four: Legislative Amendments",
+      "section": "11",
+      "title": "",
+      "content": "11. In the Criminal Procedure (Arrest and Search) Ordinance [New Version], 5729 – 1969 (1) In Section 1 – (a) In the definition “object”, the words “computer material or animal” shall replace “or animal”. (b) The following shall be inserted after the definition of “object”: “Computer”, “computer material” and “output” as defined in the Computers Law, 5755 – 1995”. (2) The following shall be added after Section 23: “Penetration into computer material"
+    },
+    {
+      "provision_ref": "sec23A",
+      "chapter": "Chapter Four: Legislative Amendments",
+      "section": "23A",
+      "title": "",
+      "content": "23A. (a) Penetration into computer material and production of output in the course of such penetration shall be considered as a search and shall be performed by an official who is trained to carry out such actions; for this purpose, “penetration into computer material” - as it defined under Section 4 of the Computers Law, 5755 – 1995. (b) Notwithstanding the provisions of this Chapter, a search as aforesaid in Subsection (a) shall not be conducted, unless by an warrant of a judge under Section 23, which explicitly specifies the permission to penetrate into computer material or to produce output, as the case may be, and the conditions for the search and its purposes. (c) Receiving information from communication between computers incidental to a search under this Section will not be considered eavesdropping under the Eavesdropping Law, 5729 – 1979.” (3) In Section 32 – (a) Subsection (b) shall be marked (c), and in it, the words “this section” shall replace “subsection (a)”; (b) The following shall be inserted after Subsection (a): “(b) Notwithstanding the provisions of this Chapter, a computer or an object that embodies computer material shall not be seized if it is found in the use of an institution as defined in Section 35 of the Evidence Ordinance [New Version], 5731 – 1971, other than by a court warrant; a warrant that has been issued not in the presence of the possessor of the computer or the object that embodies computer material, shall be given for a period that does not exceed 48 hours; for this purpose, the Sabbath and holidays shall not be considered; a Court may extend the order after giving the possessor an opportunity to be heard.” Promulgating Regulations"
+    },
+    {
+      "provision_ref": "sec12",
+      "chapter": "Chapter Five: Regulations",
+      "section": "12",
+      "title": "",
+      "content": "12. The Minister of Justice is charged with the implementation of this Law and may, with the approval of the Constitution, Law and Justice Committee of the Knesset, promulgate regulations as to any matter relating to its implementation. Commencement"
+    },
+    {
+      "provision_ref": "sec13",
+      "chapter": "Chapter Five: Regulations",
+      "section": "13",
+      "title": "",
+      "content": "13. This Law shall come into force three months from the date of its publication. Yitzhak Rabin David Libai Prime Minister Minister of Justice Ezer Weizman Shevach Weiss President of the State Speaker of the Knesset"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "computer material",
+      "definition": "software or information",
+      "source_provision": "sec1"
+    },
+    {
+      "term": "computer",
+      "definition": "a device that operates by means of software program for performing arithmetic or logic processing of data, as well as its peripheral equipment, including computers system, but excluding auxiliary computer",
+      "source_provision": "sec1"
+    },
+    {
+      "term": "auxiliary computer",
+      "definition": "a computer capable of performing arithmetical calculation actions only and actions entailed in performing such actions",
+      "source_provision": "sec1"
+    },
+    {
+      "term": "information",
+      "definition": "data, signs, concepts or instructions, excluding software program, which are expressed in computer-readable language, and which are stored in a computer or another means of storage, provided that the data, signs, concepts or instructions are not intended for use solely in an auxiliary computer",
+      "source_provision": "sec1"
+    },
+    {
+      "term": "output",
+      "definition": "data, signs, concepts or instructions that are produced, in any manner, by a computer",
+      "source_provision": "sec1"
+    },
+    {
+      "term": "computer-readable language",
+      "definition": "a form of expression suitable for delivery, interpretation or processing by a computer or an auxiliary computer only",
+      "source_provision": "sec1"
+    }
+  ],
+  "_knesset_metadata": {
+    "israelLawId": 2000357,
+    "hebrewName": "חוק המחשבים, התשנ\"ה-1995",
+    "knessetNum": 13,
+    "publicationDate": "1995-07-25T00:00:00",
+    "latestPublicationDate": "2012-07-17T00:00:00",
+    "validityDesc": "תקף",
+    "lastUpdatedDate": "2022-05-04T11:50:29.67"
+  }
+}

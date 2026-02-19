@@ -1,0 +1,97 @@
+{
+  "id": "data-security-regulations-2017",
+  "type": "statute",
+  "title": "תקנות הגנת הפרטיות (אבטחת מידע), תשע\"ז-2017",
+  "title_en": "Protection of Privacy Regulations (Data Security), 5777-2017",
+  "short_name": "DSR",
+  "status": "in_force",
+  "issued_date": "2017-03-21",
+  "in_force_date": "2018-05-08",
+  "url": "https://www.gov.il/en/departments/legalinfo/data_security_regulation",
+  "description": "The Protection of Privacy Regulations (Data Security) 2017 impose technical and organisational security requirements on database owners. They establish four security levels (basic, medium, high, critical) and mandate risk assessments, security policies, access controls, encryption, incident response procedures, and annual security audits. The regulations implement Section 17 of the Privacy Protection Law 1981.",
+  "provisions": [
+    {
+      "provision_ref": "reg1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "Regulation 1. Definitions. In these Regulations: \"database security level\" - the security classification of a database as basic, medium, high, or critical, determined by the type and volume of data and the number of persons authorized to access it; \"security incident\" - an event in which there is a reasonable concern that database information has been exposed, used, or changed without authorization, or that the integrity or availability of the database has been compromised; \"security officer\" - a person appointed under Section 17B of the Privacy Protection Law to be responsible for information security."
+    },
+    {
+      "provision_ref": "reg2",
+      "section": "2",
+      "title": "Database Security Levels",
+      "content": "Regulation 2. Database Security Levels. (a) A database managed by a person who employs fewer than 10 employees, contains no sensitive information, and is not managed by a public body shall be classified as basic security level. (b) A database that does not meet the criteria for basic level and is not classified as high or critical level shall be classified as medium security level. (c) A database shall be classified as high security level if it contains sensitive information about more than 100,000 data subjects, or is managed by a public body that contains sensitive information. (d) A database shall be classified as critical security level if it contains information about more than 1,000,000 data subjects and if data leakage could endanger the physical safety or health of data subjects."
+    },
+    {
+      "provision_ref": "reg3",
+      "section": "3",
+      "title": "Security Procedures Document",
+      "content": "Regulation 3. Security Procedures Document. (a) The database owner shall prepare a document defining the security procedures for the database (hereinafter: \"security procedures document\"). (b) The security procedures document shall include: (1) a description of the database, its purposes, and the types of information it contains; (2) a description of the physical and logical environment of the database; (3) a list of persons authorized to access the database, specifying the type and scope of authorization for each; (4) the risks to the database and the measures taken to address them; (5) the types of security incidents that may occur and the measures for handling them."
+    },
+    {
+      "provision_ref": "reg4",
+      "section": "4",
+      "title": "Access Control",
+      "content": "Regulation 4. Access Control. (a) The database owner shall define for each authorized person the scope of their authorization and the type of actions they are permitted to perform. (b) Authorization to access the database shall be granted only to persons for whom such access is necessary for the performance of their duties. (c) The database owner shall employ means to prevent unauthorized access to the database."
+    },
+    {
+      "provision_ref": "reg5",
+      "section": "5",
+      "title": "Physical Security",
+      "content": "Regulation 5. Physical Security. The database owner shall employ physical means to protect the database infrastructure and the information stored therein from unauthorized access, damage, or destruction."
+    },
+    {
+      "provision_ref": "reg6",
+      "section": "6",
+      "title": "Communication Security",
+      "content": "Regulation 6. Communication Security. (a) The database owner shall employ means to protect information transmitted electronically from the database against unauthorized access. (b) A database at high or critical security level shall employ encryption for electronic transmission of information outside the organization."
+    },
+    {
+      "provision_ref": "reg7",
+      "section": "7",
+      "title": "Monitoring and Logging",
+      "content": "Regulation 7. Monitoring and Logging. (a) The database owner shall maintain a log documenting access to the database, including the identity of the person accessing, the date and time of access, and the actions performed. (b) The log shall be maintained for a period of not less than 24 months for databases at medium security level, and not less than 5 years for databases at high or critical security level."
+    },
+    {
+      "provision_ref": "reg8",
+      "section": "8",
+      "title": "Security Incidents",
+      "content": "Regulation 8. Security Incidents. (a) The database owner shall establish procedures for identifying and handling security incidents. (b) When a severe security incident occurs in a database at high or critical security level, the database owner shall report the incident to the Registrar immediately. (c) The database owner shall document each security incident, the measures taken to address it, and actions taken to prevent recurrence."
+    },
+    {
+      "provision_ref": "reg9",
+      "section": "9",
+      "title": "Annual Security Audit",
+      "content": "Regulation 9. Annual Security Audit. (a) The database owner shall conduct a periodic examination of compliance with these Regulations and with the security procedures document. (b) For databases at high or critical security level, the examination shall be conducted at least once every 18 months by a qualified external auditor."
+    },
+    {
+      "provision_ref": "reg10",
+      "section": "10",
+      "title": "Outsourced Processing",
+      "content": "Regulation 10. Outsourced Processing. (a) Where the database owner engages a third party to process information in the database, the database owner shall enter into a written agreement with that third party specifying: (1) the types of information to be processed; (2) the security measures to be employed; (3) the obligation to return or destroy the information upon termination of the engagement. (b) The database owner shall verify that the third party complies with the security requirements applicable to the database."
+    },
+    {
+      "provision_ref": "reg11",
+      "section": "11",
+      "title": "Transition and Implementation",
+      "content": "Regulation 11. Transition and Implementation. (a) These Regulations shall come into force on 8 May 2018. (b) With respect to databases existing on the date these Regulations come into force, the database owner shall comply with these Regulations within 12 months of the date they come into force."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "database security level",
+      "definition": "The security classification of a database as basic, medium, high, or critical, determined by the type and volume of data and the number of persons authorized to access it",
+      "source_provision": "reg1"
+    },
+    {
+      "term": "security incident",
+      "definition": "An event in which there is a reasonable concern that database information has been exposed, used, or changed without authorization, or that the integrity or availability of the database has been compromised",
+      "source_provision": "reg1"
+    },
+    {
+      "term": "security officer",
+      "definition": "A person appointed under Section 17B of the Privacy Protection Law to be responsible for information security",
+      "source_provision": "reg1"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "regulation-of-security-1998",
+  "type": "statute",
+  "title": "חוק הסדרת האבטחה בגופים ציבוריים, תשנ\"ח-1998",
+  "title_en": "Regulation of Security in Public Bodies Law, 5758-1998",
+  "short_name": "RSPBL",
+  "status": "in_force",
+  "issued_date": "1998-01-01",
+  "in_force_date": "1998-01-01",
+  "url": "https://www.nevo.co.il/law_html/law01/999_574.htm",
+  "description": "The Regulation of Security in Public Bodies Law 5758-1998 establishes security requirements for critical infrastructure and public bodies in Israel. It mandates the appointment of security officers and implementation of security measures for designated organizations.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "Section 1. Definitions. In this Law: \"body subject to security\" - a body designated by the Minister of Public Security as requiring security regulation due to the nature of its activities or the risk of terrorism; \"security officer\" - a person appointed by a body subject to security to be responsible for security matters; \"security plan\" - a comprehensive plan for the protection of a body subject to security, its personnel, visitors, and assets."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Designation of Bodies",
+      "content": "Section 2. Designation of Bodies. (a) The Minister of Public Security may, by order, designate a body as a body subject to security if: (1) the body provides essential public services; (2) the body handles hazardous materials; (3) the body is a venue of public assembly; (4) the nature of the body's activities or its location creates a heightened risk requiring security regulation."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Security Officer",
+      "content": "Section 3. Security Officer. (a) A body subject to security shall appoint a security officer. (b) The security officer shall be responsible for: (1) preparing and implementing a security plan; (2) supervising security measures; (3) training personnel on security procedures; (4) reporting security incidents to the relevant authorities."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "Security Plan",
+      "content": "Section 5. Security Plan. (a) The security officer shall prepare a security plan for the body. (b) The security plan shall address: (1) risk assessment; (2) physical security measures; (3) access control; (4) emergency procedures; (5) coordination with security forces."
+    },
+    {
+      "provision_ref": "sec8",
+      "section": "8",
+      "title": "Supervision",
+      "content": "Section 8. Supervision. The Israel Police shall supervise compliance with this Law and may inspect bodies subject to security to verify that security measures are implemented in accordance with the security plan."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "body subject to security",
+      "definition": "A body designated by the Minister of Public Security as requiring security regulation due to the nature of its activities or the risk of terrorism",
+      "source_provision": "sec1"
+    },
+    {
+      "term": "security officer",
+      "definition": "A person appointed by a body subject to security to be responsible for security matters",
+      "source_provision": "sec1"
+    },
+    {
+      "term": "security plan",
+      "definition": "A comprehensive plan for the protection of a body subject to security, its personnel, visitors, and assets",
+      "source_provision": "sec1"
+    }
+  ]
+}

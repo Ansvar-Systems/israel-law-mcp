@@ -1,0 +1,67 @@
+{
+  "id": "communications-law-1982",
+  "type": "statute",
+  "title": "חוק התקשורת (בזק ושידורים), תשמ\"ב-1982",
+  "title_en": "Communications Law (Telecommunications and Broadcasting), 5742-1982",
+  "short_name": "CommL",
+  "status": "in_force",
+  "issued_date": "1982-01-01",
+  "in_force_date": "1984-02-01",
+  "url": "https://www.nevo.co.il/law_html/law01/044_001.htm",
+  "description": "The Communications Law (Telecommunications and Broadcasting) 5742-1982 regulates telecommunications and broadcasting in Israel. It establishes licensing requirements, regulates network operators, and includes provisions relevant to privacy of communications and data security of telecommunications infrastructure.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "Section 1. Definitions. In this Law: \"telecommunications\" - the transmission, emission, or reception of signs, signals, writing, images, sounds, or intelligence of any nature by wire, radio, optical, or other electromagnetic systems; \"telecommunications service\" - any service involving the provision of telecommunications; \"licensee\" - the holder of a license under this Law."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Licensing Requirement",
+      "content": "Section 4. Licensing Requirement. (a) No person shall provide a telecommunications service except under a license issued by the Minister of Communications. (b) The Minister may issue general licenses, special licenses, or individual licenses, and may prescribe conditions for each type of license."
+    },
+    {
+      "provision_ref": "sec13",
+      "section": "13",
+      "title": "Secrecy of Communications",
+      "content": "Section 13. Secrecy of Communications. (a) A licensee and any person employed by a licensee shall maintain the secrecy of communications transmitted through the licensee's network. (b) No person shall intercept, record, or disclose the contents of communications transmitted through a telecommunications network without the consent of the parties to the communication or authorization under law."
+    },
+    {
+      "provision_ref": "sec13A",
+      "section": "13A",
+      "title": "Data Protection Obligations",
+      "content": "Section 13A. Data Protection Obligations. (a) A licensee shall take appropriate measures to protect subscriber data and communications data from unauthorized access, use, or disclosure. (b) Subscriber data shall not be used for purposes other than the provision of telecommunications services, except with the subscriber's consent or as required by law."
+    },
+    {
+      "provision_ref": "sec30",
+      "section": "30",
+      "title": "Security Requirements",
+      "content": "Section 30. Security Requirements. (a) A licensee operating critical telecommunications infrastructure shall implement security measures as prescribed by the Minister of Communications. (b) The security measures shall address: (1) physical protection of infrastructure; (2) cybersecurity measures; (3) business continuity and disaster recovery; (4) incident reporting."
+    },
+    {
+      "provision_ref": "sec58",
+      "section": "58",
+      "title": "Electronic Direct Marketing",
+      "content": "Section 58. Electronic Direct Marketing. (a) No person shall send an electronic commercial message by means of facsimile, automatic dialing system, electronic mail, or short message service (SMS), unless the recipient has given his prior express consent. (b) Exception: a person may send electronic commercial messages to a person who provided his contact details in the context of a prior commercial transaction, provided that the message relates to similar products or services, and the recipient was given a reasonable opportunity to refuse to receive such messages."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "telecommunications",
+      "definition": "The transmission, emission, or reception of signs, signals, writing, images, sounds, or intelligence of any nature by wire, radio, optical, or other electromagnetic systems",
+      "source_provision": "sec1"
+    },
+    {
+      "term": "telecommunications service",
+      "definition": "Any service involving the provision of telecommunications",
+      "source_provision": "sec1"
+    },
+    {
+      "term": "licensee",
+      "definition": "The holder of a license under this Law",
+      "source_provision": "sec1"
+    }
+  ]
+}

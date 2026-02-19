@@ -1,0 +1,67 @@
+{
+  "id": "companies-law-1999",
+  "type": "statute",
+  "title": "חוק החברות, תשנ\"ט-1999",
+  "title_en": "Companies Law, 5759-1999",
+  "short_name": "CoL",
+  "status": "in_force",
+  "issued_date": "1999-02-15",
+  "in_force_date": "2000-02-01",
+  "url": "https://www.gov.il/en/departments/legalinfo/companies_law",
+  "description": "The Companies Law 5759-1999 is the primary legislation governing corporate entities in Israel. It covers incorporation, corporate governance, directors' duties, shareholders' rights, mergers, and dissolution. For cybersecurity compliance purposes, key sections address directors' duty of care regarding information systems (Sections 252-256), reporting obligations (Section 270A), and corporate liability for data breaches affecting shareholders.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "Section 1. Definitions. In this Law: \"company\" - a body corporate incorporated under this Law or under one of the ordinances listed in the First Schedule; \"limited company\" - a company in which the liability of its shareholders is limited to the unpaid amount, if any, of the shares held by them; \"public company\" - a company whose shares are listed for trade on a stock exchange or have been offered to the public under a prospectus as defined in the Securities Law."
+    },
+    {
+      "provision_ref": "sec11",
+      "section": "11",
+      "title": "Legal Personality",
+      "content": "Section 11. Legal Personality. A company is a legal entity from the date of its incorporation and until its dissolution."
+    },
+    {
+      "provision_ref": "sec252",
+      "section": "252",
+      "title": "Duty of Care",
+      "content": "Section 252. Duty of Care. (a) An office holder shall act with the level of care with which a reasonable office holder would act in the same position and under the same circumstances, including taking reasonable measures to obtain information relevant to the business of the company and other information available to the office holder given the circumstances."
+    },
+    {
+      "provision_ref": "sec253",
+      "section": "253",
+      "title": "Business Judgment Rule",
+      "content": "Section 253. Business Judgment Rule. An office holder shall be deemed to have fulfilled his duty of care under Section 252, if he acted in good faith and in a manner in which a reasonable office holder would have acted under the same circumstances, provided the office holder had no personal interest in the decision, was informed of the relevant facts, and reasonably believed the decision to be in the best interests of the company."
+    },
+    {
+      "provision_ref": "sec254",
+      "section": "254",
+      "title": "Duty of Loyalty",
+      "content": "Section 254. Duty of Loyalty. (a) An office holder owes a duty of loyalty to the company, shall act in good faith and for the benefit of the company, and shall, inter alia: (1) refrain from any act involving a conflict of interest between the performance of his duties in the company and the performance of his other duties or his personal affairs; (2) refrain from any activity that is competitive with the company's business; (3) refrain from exploiting any business opportunity of the company to gain a personal advantage for himself or for another; (4) disclose to the company any information and provide any document related to the company's affairs which the office holder received by virtue of his position as office holder."
+    },
+    {
+      "provision_ref": "sec270A",
+      "section": "270A",
+      "title": "Reporting Requirements",
+      "content": "Section 270A. Reporting Requirements. A public company shall file periodic reports with the Securities Authority including financial statements, material events, and any information material to the value of its securities, including information regarding risks to the company's information systems and cyber threats."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "company",
+      "definition": "A body corporate incorporated under this Law or under one of the ordinances listed in the First Schedule",
+      "source_provision": "sec1"
+    },
+    {
+      "term": "public company",
+      "definition": "A company whose shares are listed for trade on a stock exchange or have been offered to the public under a prospectus as defined in the Securities Law",
+      "source_provision": "sec1"
+    },
+    {
+      "term": "office holder",
+      "definition": "A director, general manager, chief business manager, deputy general manager, vice general manager, or any person filling any of the above positions in the company, or any other manager directly subordinate to the general manager",
+      "source_provision": "sec1"
+    }
+  ]
+}

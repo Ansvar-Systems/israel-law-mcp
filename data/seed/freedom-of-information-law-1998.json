@@ -1,0 +1,62 @@
+{
+  "id": "freedom-of-information-law-1998",
+  "type": "statute",
+  "title": "חוק חופש המידע, תשנ\"ח-1998",
+  "title_en": "Freedom of Information Law, 5758-1998",
+  "short_name": "FoIL",
+  "status": "in_force",
+  "issued_date": "1998-05-19",
+  "in_force_date": "1999-05-19",
+  "url": "https://www.gov.il/en/departments/legalinfo/freedom_of_information_law",
+  "description": "The Freedom of Information Law 5758-1998 establishes the right of every citizen or resident to receive information from public authorities. It sets out the procedures for requesting information and the grounds for refusal.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Right to Information",
+      "content": "Section 1. Right to Information. Every Israeli citizen or resident has the right to receive information from a public authority, in accordance with the provisions of this Law."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Definitions",
+      "content": "Section 2. Definitions. In this Law: \"public authority\" - a Government Ministry, the Knesset, the judiciary, local authorities, statutory corporations, government companies, and other bodies exercising public functions as designated by the Minister of Justice; \"information\" - any information held by a public authority, whether in writing, recorded, photographed, filmed, or by electronic or optical means."
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "Request for Information",
+      "content": "Section 7. Request for Information. (a) A request for information shall be submitted in writing to the public authority that holds the information. (b) The request shall specify the information sought. (c) The applicant need not state the reason for the request."
+    },
+    {
+      "provision_ref": "sec8",
+      "section": "8",
+      "title": "Duty to Respond",
+      "content": "Section 8. Duty to Respond. (a) A public authority shall respond to a request for information within 30 days. (b) The response may be an affirmative or a negative response, or a partial response. (c) If the public authority does not respond within the prescribed period, the request shall be deemed to have been refused."
+    },
+    {
+      "provision_ref": "sec9",
+      "section": "9",
+      "title": "Grounds for Refusal",
+      "content": "Section 9. Grounds for Refusal. (a) A public authority may refuse a request for information if the information: (1) may harm state security, foreign relations, or public safety; (2) may harm the privacy of a person; (3) is classified as confidential under any law; (4) relates to internal deliberations of the public authority; (5) may prejudice ongoing investigations or legal proceedings; (6) constitutes a trade secret or commercial information whose disclosure may cause economic harm."
+    },
+    {
+      "provision_ref": "sec17",
+      "section": "17",
+      "title": "Appeal",
+      "content": "Section 17. Appeal. (a) A person whose request for information was refused, or who received a partial response, may appeal to the administrative court within 45 days of the date of the decision."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "public authority",
+      "definition": "A Government Ministry, the Knesset, the judiciary, local authorities, statutory corporations, government companies, and other bodies exercising public functions",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "information",
+      "definition": "Any information held by a public authority, whether in writing, recorded, photographed, filmed, or by electronic or optical means",
+      "source_provision": "sec2"
+    }
+  ]
+}

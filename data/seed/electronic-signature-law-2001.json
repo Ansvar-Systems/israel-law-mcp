@@ -1,0 +1,67 @@
+{
+  "id": "electronic-signature-law-2001",
+  "type": "statute",
+  "title": "חוק חתימה אלקטרונית, תס\"א-2001",
+  "title_en": "Electronic Signature Law, 5761-2001",
+  "short_name": "ESL",
+  "status": "in_force",
+  "issued_date": "2001-08-07",
+  "in_force_date": "2001-08-07",
+  "url": "https://www.gov.il/en/departments/legalinfo/electronic_signature_law",
+  "description": "The Electronic Signature Law 5761-2001 provides the legal framework for electronic signatures and electronic documents in Israel. It recognizes three types of electronic signatures with varying levels of legal effect and establishes a certification authority regime.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "Section 1. Definitions. In this Law: \"electronic signature\" - an electronic creation designed to serve as a signature and attached to or associated with an electronic message; \"secure electronic signature\" - an electronic signature that satisfies all of the following: (1) it is unique to its signatory; (2) it is capable of identifying the signatory; (3) it was created using means that the signatory can maintain under his sole control; (4) it is linked to the data to which it relates in such a manner that any subsequent change in the data is detectable; \"certified electronic signature\" - a secure electronic signature that is backed by a valid certificate from a licensed certification authority."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Legal Validity of Electronic Signature",
+      "content": "Section 2. Legal Validity of Electronic Signature. (a) A certified electronic signature shall be deemed to have the same legal validity as a handwritten signature. (b) An electronic message to which a certified electronic signature is attached shall be deemed to be a signed document for all purposes under any law. (c) A secure electronic signature that is not certified shall be admissible as evidence of the identity of the signatory and of the signatory's intent to identify with the content of the electronic message."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Presumptions",
+      "content": "Section 3. Presumptions. Where a certified electronic signature is attached to an electronic message: (1) the signature shall be presumed to be that of the person named in the certificate as the signatory, unless the contrary is proved; (2) it shall be presumed that the signatory intended to identify with the content of the electronic message, unless the contrary is proved."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Certification Authority",
+      "content": "Section 4. Certification Authority. (a) No person shall operate as a certification authority for purposes of issuing certificates for certified electronic signatures unless he is licensed under this Law. (b) The Registrar of Certification Authorities shall be appointed by the Minister of Justice."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "Conditions for License",
+      "content": "Section 5. Conditions for License. A license to operate as a certification authority shall be granted to an applicant who satisfies the following conditions: (1) he is a corporation registered in Israel; (2) he has adequate technical means and professional staff; (3) he maintains appropriate security measures; (4) he has adequate financial resources; (5) he carries professional liability insurance."
+    },
+    {
+      "provision_ref": "sec14",
+      "section": "14",
+      "title": "Government Use",
+      "content": "Section 14. Government Use. The Minister of Justice may, by regulations, determine that a government agency shall accept electronic messages bearing a certified electronic signature in lieu of documents bearing a handwritten signature."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "electronic signature",
+      "definition": "An electronic creation designed to serve as a signature and attached to or associated with an electronic message",
+      "source_provision": "sec1"
+    },
+    {
+      "term": "secure electronic signature",
+      "definition": "An electronic signature that is unique to its signatory, capable of identifying the signatory, created using means under the signatory's sole control, and linked to the data such that changes are detectable",
+      "source_provision": "sec1"
+    },
+    {
+      "term": "certified electronic signature",
+      "definition": "A secure electronic signature backed by a valid certificate from a licensed certification authority",
+      "source_provision": "sec1"
+    }
+  ]
+}
