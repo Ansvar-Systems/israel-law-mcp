@@ -1,6 +1,8 @@
 node_modules/
 dist/
 *.db
+data/source/
+data/seed/
 !data/.gitkeep
 .env
 .env.*
