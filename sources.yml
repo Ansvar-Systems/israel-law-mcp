@@ -1,0 +1,86 @@
+# sources.yml
+schema_version: "1.0"
+mcp_name: "Israel Law MCP"
+jurisdiction: "IL"
+
+sources:
+  - name: "Knesset Legislation Database"
+    authority: "The Knesset (Israeli Parliament)"
+    official_portal: "https://main.knesset.gov.il/Activity/Legislation"
+    canonical_identifier: "N/A (Israeli legislation identified by law name, year, and Sefer HaChukkim reference number)"
+    retrieval_method: "HTML_SCRAPE"
+    api_documentation: "https://knesset.gov.il/Odata/ParliamentInfo.svc/ (OData API for some legislative data)"
+    update_frequency: "weekly"
+    last_ingested: "PENDING_FIRST_INGEST"
+    license_or_terms:
+      type: "Government Open Data"
+      url: "https://main.knesset.gov.il/Activity/Legislation/Pages/default.aspx"
+      summary: "Knesset provides public access to legislation; Israeli government legislation is publicly accessible; the Knesset website provides free access to laws, bills, and legislative proceedings"
+    coverage:
+      scope: "All primary legislation (Chukkim), Basic Laws (Chukei Yesod), bills, and selected legislative proceedings; laws published in Sefer HaChukkim (Book of Laws) and Reshumot (Official Gazette)"
+      limitations: "Consolidated versions may lag behind recent amendments; subsidiary legislation and regulations are less comprehensively covered; some older laws may only be available in Hebrew; English translations available for major laws but may not be current"
+    languages:
+      - "he"
+      - "en"
+
+  - name: "Nevo Legal Database"
+    authority: "Nevo (commercial legal database, widely used as de facto reference)"
+    official_portal: "https://www.nevo.co.il"
+    canonical_identifier: "N/A"
+    retrieval_method: "HTML_SCRAPE"
+    api_documentation: "N/A (commercial platform with structured web interface)"
+    update_frequency: "daily"
+    last_ingested: "PENDING_FIRST_INGEST"
+    license_or_terms:
+      type: "Commercial Database (public law content)"
+      url: "https://www.nevo.co.il/general/terms.aspx"
+      summary: "Nevo is the dominant Israeli legal database; while access is commercial, the underlying legislation is government-published public content; used as the de facto standard reference by Israeli legal professionals and courts"
+    coverage:
+      scope: "Comprehensive Israeli legislation including primary laws, regulations, court decisions, attorney general guidelines, and regulatory directives; consolidated and up-to-date versions"
+      limitations: "Full access requires commercial subscription; free access limited to basic law text; court decisions and regulatory materials may require paid access; structured data extraction limited by terms of service"
+    languages:
+      - "he"
+
+  - name: "Israeli Law Resource Center (English translations)"
+    authority: "Various official and academic sources"
+    official_portal: "https://www.gov.il/en/departments/legalinfo"
+    canonical_identifier: "N/A"
+    retrieval_method: "HTML_SCRAPE"
+    api_documentation: "N/A"
+    update_frequency: "monthly"
+    last_ingested: "PENDING_FIRST_INGEST"
+    license_or_terms:
+      type: "Government Publication"
+      url: "https://www.gov.il/en/departments/legalinfo"
+      summary: "English translations of major Israeli laws published by government ministries and the Knesset; translations are unofficial but widely referenced"
+    coverage:
+      scope: "English translations of major Israeli laws including Basic Laws, Privacy Protection Law, Companies Law, and key regulatory frameworks"
+      limitations: "Not all laws have official English translations; translations may lag behind Hebrew amendments; unofficial status means Hebrew text is always authoritative"
+    languages:
+      - "en"
+
+data_freshness:
+  automated_checks: true
+  check_frequency: "weekly"
+  last_verified: "PENDING_FIRST_INGEST"
+
+# Notes:
+# - Israel uses a mixed legal system combining elements of common law, civil law, and
+#   religious law traditions
+# - Hebrew is the legally binding language; Arabic has special status; English translations
+#   are available for major laws but are not official
+# - Israel does not have a single codified constitution; instead, it has a series of
+#   Basic Laws (Chukei Yesod) that serve quasi-constitutional functions
+# - The Privacy Protection Law (1981) predates the EU GDPR but is being modernized;
+#   Israel has an EU adequacy decision under the Data Protection Directive (maintained
+#   under GDPR review)
+# - The Privacy Protection Authority (PPA) is the supervisory authority for data protection
+# - The Protection of Privacy Regulations (Data Security) 2017 impose specific technical
+#   and organisational security requirements on database owners
+# - Israel is a major global cybersecurity hub (Unit 8200, startup ecosystem), making
+#   its legal framework highly relevant to Ansvar's client base
+# - The Computer Law 1995 addresses computer crimes and unauthorised access
+# - Nevo (nevo.co.il) is the dominant commercial legal database used by essentially all
+#   Israeli legal professionals; the Knesset database is the official government source
+# - Israel's legal publishing uses Sefer HaChukkim (Book of Laws) for primary legislation
+#   and Kovetz HaTakanot (Collection of Regulations) for subsidiary legislation

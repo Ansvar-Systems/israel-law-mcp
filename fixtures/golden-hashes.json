@@ -1,0 +1,56 @@
+{
+  "$schema": "./golden-hashes.schema.json",
+  "version": "1.0",
+  "mcp_name": "Israel Law MCP",
+  "jurisdiction": "IL",
+  "provisions": [
+    {
+      "id": "il-hash-001",
+      "description": "Basic Law: Human Dignity and Liberty, Section 1 -- purpose of the Basic Law; fundamental provision stating that human rights in Israel are founded on recognition of the value of the human being",
+      "upstream_url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2000039",
+      "selector_hint": "Section 1 - Basic principles",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "human dignity"
+    },
+    {
+      "id": "il-hash-002",
+      "description": "Privacy Protection Law 1981, Section 1 -- definitions of key terms including database, holder of a database, and sensitive information",
+      "upstream_url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2000480",
+      "selector_hint": "Section 1 - Definitions",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "privacy"
+    },
+    {
+      "id": "il-hash-003",
+      "description": "Protection of Privacy Regulations (Data Security) 2017, Section 1 -- definitions and scope of the data security regulations",
+      "upstream_url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2000480",
+      "selector_hint": "Section 1 - Definitions",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "security"
+    },
+    {
+      "id": "il-hash-004",
+      "description": "Companies Law 1999, Section 1 -- definitions and interpretation of key corporate governance terms",
+      "upstream_url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2000559",
+      "selector_hint": "Section 1 - Definitions",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "company"
+    },
+    {
+      "id": "il-hash-005",
+      "description": "Computer Law 1995, Section 1 -- definitions of computer, computer material, and computer output",
+      "upstream_url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2000539",
+      "selector_hint": "Section 1 - Definitions",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "computer"
+    },
+    {
+      "id": "il-hash-006",
+      "description": "Electronic Signature Law 2001, Section 1 -- definitions of electronic signature, secure electronic signature, and certification authority",
+      "upstream_url": "https://main.knesset.gov.il/Activity/Legislation/Laws/Pages/LawBill.aspx?t=lawsuggestionssearch&lawitemid=2000606",
+      "selector_hint": "Section 1 - Definitions",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "electronic signature"
+    }
+  ]
+}

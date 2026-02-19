@@ -1,0 +1,17 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "buildCommand": "bash scripts/download-db.sh && npm run build",
+  "functions": {
+    "api/mcp.ts": {
+      "maxDuration": 30,
+      "memory": 1024,
+      "includeFiles": "{data/database.db,node_modules/node-sqlite3-wasm/dist/node-sqlite3-wasm.wasm}"
+    }
+  },
+  "crons": [
+    {
+      "path": "/api/health",
+      "schedule": "*/5 * * * *"
+    }
+  ]
+}

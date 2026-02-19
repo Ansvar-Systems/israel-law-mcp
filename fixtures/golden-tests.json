@@ -1,0 +1,180 @@
+{
+  "$schema": "./golden-tests.schema.json",
+  "version": "1.0",
+  "mcp_name": "Israel Law MCP",
+  "description": "Golden contract tests for the Israel Law MCP covering Privacy Protection Law, Data Security Regulations, Computer Law, Companies Law, Electronic Signature Law, and Credit Data Law",
+  "tests": [
+    {
+      "id": "il-001",
+      "category": "article_retrieval",
+      "description": "Retrieve Section 1 of the Privacy Protection Law 1981 -- definitions and interpretation of key terms including database and privacy",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Privacy Protection Law 1981",
+        "article": "1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "text_contains": ["privacy", "database"],
+        "fields_present": ["text", "article_number"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "il-002",
+      "category": "article_retrieval",
+      "description": "Retrieve Section 7 of the Privacy Protection Law 1981 -- registration of databases with the Registrar of Databases",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Privacy Protection Law 1981",
+        "article": "7"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["database", "registration", "registrar"],
+        "fields_present": ["text", "article_number"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "il-003",
+      "category": "article_retrieval",
+      "description": "Retrieve Section 1 of the Companies Law 1999 -- definitions and interpretation",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Companies Law 1999",
+        "article": "1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["company", "Companies Law"],
+        "fields_present": ["text"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "il-004",
+      "category": "search",
+      "description": "Full-text search for 'privacy' returns Privacy Protection Law provisions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "privacy"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1,
+        "any_result_contains": ["Privacy Protection Law", "privacy", "database"]
+      }
+    },
+    {
+      "id": "il-005",
+      "category": "search",
+      "description": "Full-text search for 'data security' returns Privacy Protection Regulations provisions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "data security"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1,
+        "any_result_contains": ["Protection of Privacy Regulations", "data security", "security", "database"]
+      }
+    },
+    {
+      "id": "il-006",
+      "category": "search",
+      "description": "Full-text search for 'computer' returns Computer Law provisions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "computer"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1,
+        "any_result_contains": ["Computer Law", "computer", "unauthorised"]
+      }
+    },
+    {
+      "id": "il-007",
+      "category": "citation_roundtrip",
+      "description": "Citation for Privacy Protection Law Section 2 includes official URL pattern from knesset.gov.il or nevo.co.il",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Privacy Protection Law 1981",
+        "article": "2"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "citation_url_pattern": "(knesset\\.gov\\.il|nevo\\.co\\.il)",
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "il-008",
+      "category": "citation_roundtrip",
+      "description": "Citation for Electronic Signature Law Section 1 includes official identifier",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Electronic Signature Law 2001",
+        "article": "1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "fields_present": ["text"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "il-009",
+      "category": "eu_cross_reference",
+      "description": "Privacy Protection Law cross-reference to GDPR -- Israel has an EU adequacy decision",
+      "tool": "get_provision_eu_basis",
+      "input": {
+        "law_identifier": "Privacy Protection Law 1981"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["GDPR", "General Data Protection Regulation", "adequacy", "data protection"]
+      }
+    },
+    {
+      "id": "il-010",
+      "category": "eu_cross_reference",
+      "description": "Protection of Privacy Regulations (Data Security) 2017 cross-reference to international data security standards",
+      "tool": "get_provision_eu_basis",
+      "input": {
+        "law_identifier": "Protection of Privacy Regulations (Data Security) 2017"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["GDPR", "data security", "privacy", "data protection"]
+      }
+    },
+    {
+      "id": "il-011",
+      "category": "negative_test",
+      "description": "Non-existent Israeli law returns graceful error or empty result",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Fictional Autonomous Vehicles Cyber Law 2099",
+        "article": "1"
+      },
+      "assertions": {
+        "handles_gracefully": true
+      }
+    },
+    {
+      "id": "il-012",
+      "category": "negative_test",
+      "description": "Malformed section number returns graceful error or empty result",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Privacy Protection Law 1981",
+        "article": "999ZZZ-INVALID"
+      },
+      "assertions": {
+        "handles_gracefully": true
+      }
+    }
+  ]
+}
