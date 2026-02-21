@@ -143,7 +143,7 @@ Once connected, just ask naturally:
 | Tool | Description |
 |------|-------------|
 | `get_eu_basis` | Get EU directives/regulations for Israeli statute |
-| `get_israel_law_implementations` | Find Israeli laws implementing EU act |
+| `get_israeli_implementations` | Find Israeli laws implementing EU act |
 | `search_eu_implementations` | Search EU documents with Israeli implementation counts |
 | `get_provision_eu_basis` | Get EU law references for specific provision |
 | `validate_eu_compliance` | Check implementation status of EU directives |
