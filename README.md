@@ -123,6 +123,28 @@ Once connected, just ask naturally:
 
 ---
 
+## Key Legislation Covered
+
+| Law | Year | Significance |
+|-----|------|-------------|
+| **Privacy Protection Law** | 1981 (amended) | Comprehensive privacy law; predates GDPR; Israel has EU adequacy decision; database registration regime |
+| **Protection of Privacy Regulations (Data Security)** | 2017 | Specific technical and organisational security requirements for database owners; four security levels |
+| **Computer Law** | 1995 | Criminalises unauthorised computer access, interference, and computer viruses |
+| **Companies Law** | 1999 | Corporate governance, registration, directors' duties, and corporate obligations |
+| **Electronic Signature Law** | 2001 | Legal recognition of electronic signatures and certification authorities |
+| **Credit Data Law** | 2002 | Regulation of credit data collection, processing, and sharing |
+| **Basic Law: Human Dignity and Liberty** | 1992 | Quasi-constitutional protection of human dignity and liberty including privacy |
+
+---
+
+## Deployment Tier
+
+**SMALL** -- Single tier, bundled SQLite database shipped with the npm package.
+
+**Estimated database size:** ~60-120 MB (full corpus of Israeli federal legislation with English translations)
+
+---
+
 ## Available Tools (13)
 
 ### Core Legal Research Tools (8)
