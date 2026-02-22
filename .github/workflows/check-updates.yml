@@ -1,0 +1,133 @@
+name: Daily Data Freshness Check
+
+on:
+  schedule:
+    - cron: '0 5 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  check-updates:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci --ignore-scripts
+
+      - name: Build
+        run: npm run build
+
+      - name: Check upstream freshness
+        id: check
+        shell: bash
+        run: |
+          set +e
+          npm run check-updates 2>&1 | tee check-updates.log
+          STATUS=${PIPESTATUS[0]}
+          echo "status_code=$STATUS" >> "$GITHUB_OUTPUT"
+          if [ "$STATUS" -eq 1 ]; then
+            echo "updates_found=true" >> "$GITHUB_OUTPUT"
+          elif [ "$STATUS" -eq 0 ]; then
+            echo "updates_found=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "updates_found=false" >> "$GITHUB_OUTPUT"
+            echo "check_error=true" >> "$GITHUB_OUTPUT"
+          fi
+          exit 0
+
+      - name: Upload check output
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: check-updates-log
+          path: check-updates.log
+          retention-days: 14
+
+  report:
+    needs: check-updates
+    if: always()
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Create or update issue when updates found
+        if: needs.check-updates.outputs.updates_found == 'true' || needs.check-updates.outputs.check_error == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const updatesFound = '${{ needs.check-updates.outputs.updates_found }}' === 'true';
+            const checkError = '${{ needs.check-updates.outputs.check_error }}' === 'true';
+
+            const title = checkError
+              ? 'Data Freshness: Check errors detected'
+              : 'Data Freshness: Updates available from upstream source';
+
+            const body = [
+              `**Automated freshness check:** ${new Date().toISOString()}`,
+              '',
+              `| Metric | Value |`,
+              `|--------|-------|`,
+              `| Updates found | ${updatesFound} |`,
+              `| Check errors | ${checkError} |`,
+              `| Exit code | ${{ needs.check-updates.outputs.status_code }} |`,
+              '',
+              '### Recommended actions',
+              '1. Run `npm run check-updates` locally for details',
+              '2. If updates available, run ingestion and rebuild database',
+              '3. Re-run contract tests before release',
+            ].join('\n');
+
+            const { data: issues } = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: 'data-update',
+            });
+
+            if (issues.length > 0) {
+              await github.rest.issues.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issues[0].number,
+                title,
+                body,
+              });
+            } else {
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title,
+                body,
+                labels: ['data-update', 'automated'],
+              });
+            }
+
+      - name: Close stale issues when clean
+        if: needs.check-updates.outputs.updates_found != 'true' && needs.check-updates.outputs.check_error != 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const { data: issues } = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: 'data-update',
+            });
+            for (const issue of issues) {
+              await github.rest.issues.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issue.number,
+                state: 'closed',
+                state_reason: 'completed',
+              });
+            }

@@ -52,7 +52,8 @@
     "validate": "npm run lint && npm test && npm run test:contract",
     "lint": "tsc --noEmit",
     "prepublishOnly": "npm run build",
-    "postinstall": "test -d dist || npm run build || true"
+    "postinstall": "test -d dist || npm run build || true",
+    "check-updates": "node --import tsx scripts/check-updates.ts"
   },
   "dependencies": {
     "@ansvar/mcp-sqlite": "^1.0.3",
