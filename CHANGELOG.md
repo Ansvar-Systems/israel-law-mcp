@@ -7,7 +7,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [1.0.0] - 2026-XX-XX
+## [1.1.0] - 2026-02-22
+### Added
+- `data/census.json` — full law census (10 laws, 135 provisions, jurisdiction IL)
+- Dual transport in `server.json` (stdio + streamable-http via Vercel)
+- Census consistency tests validating DB matches census
+- `describe.skipIf` guards on all DB-dependent test suites (CI-safe)
+
+### Changed
+- Rewrote `__tests__/contract/golden.test.ts` to golden standard pattern
+  - DB integrity, key law presence, provision retrieval, FTS search, negative tests
+  - All describe blocks skip gracefully when `data/database.db` is absent
+- Updated `server.json` to `packages` format with Vercel endpoint
+
+## [1.0.0] - 2026-02-19
 ### Added
 - Initial release of Israel Law MCP
 - `search_legislation` tool for full-text search across all Israeli statutes
@@ -23,5 +36,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - npm package with stdio transport
 - MCP Registry publishing
 
-[Unreleased]: https://github.com/Ansvar-Systems/israel-law-mcp/compare/v1.0.0...HEAD
+[Unreleased]: https://github.com/Ansvar-Systems/israel-law-mcp/compare/v1.1.0...HEAD
+[1.1.0]: https://github.com/Ansvar-Systems/israel-law-mcp/compare/v1.0.0...v1.1.0
 [1.0.0]: https://github.com/Ansvar-Systems/israel-law-mcp/releases/tag/v1.0.0

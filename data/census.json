@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "jurisdiction": "IL",
+  "portal": "knesset.gov.il + gov.il",
+  "generated": "2026-02-22",
+  "total_laws": 10,
+  "total_provisions": 135,
+  "laws": [
+    {
+      "id": "basic-law-human-dignity-1992",
+      "title": "חוק יסוד: כבוד האדם וחירותו",
+      "provisions": 13
+    },
+    {
+      "id": "communications-law-1982",
+      "title": "חוק התקשורת (בזק ושידורים), תשמ\"ב-1982",
+      "provisions": 6
+    },
+    {
+      "id": "companies-law-1999",
+      "title": "חוק החברות, תשנ\"ט-1999",
+      "provisions": 6
+    },
+    {
+      "id": "computer-law-1995",
+      "title": "חוק המחשבים, תשנ\"ה-1995",
+      "provisions": 21
+    },
+    {
+      "id": "credit-data-law-2002",
+      "title": "חוק נתוני אשראי, תס\"ב-2002",
+      "provisions": 6
+    },
+    {
+      "id": "data-security-regulations-2017",
+      "title": "תקנות הגנת הפרטיות (אבטחת מידע), תשע\"ז-2017",
+      "provisions": 11
+    },
+    {
+      "id": "electronic-signature-law-2001",
+      "title": "חוק חתימה אלקטרונית, תס\"א-2001",
+      "provisions": 6
+    },
+    {
+      "id": "freedom-of-information-law-1998",
+      "title": "חוק חופש המידע, תשנ\"ח-1998",
+      "provisions": 6
+    },
+    {
+      "id": "privacy-protection-law-1981",
+      "title": "חוק הגנת הפרטיות, תשמ\"א-1981",
+      "provisions": 55
+    },
+    {
+      "id": "regulation-of-security-1998",
+      "title": "חוק הסדרת האבטחה בגופים ציבוריים, תשנ\"ח-1998",
+      "provisions": 5
+    }
+  ]
+}
