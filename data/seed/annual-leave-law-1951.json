@@ -1,0 +1,39 @@
+{
+  "id": "annual-leave-law-1951",
+  "type": "statute",
+  "title": "חוק חופשה שנתית, תשי\"א-1951",
+  "title_en": "Annual Leave Law, 5711-1951",
+  "short_name": "ALL",
+  "status": "in_force",
+  "issued_date": "1951-06-11",
+  "in_force_date": "1951-06-11",
+  "url": "https://www.nevo.co.il/law_html/law01/007_002.htm",
+  "description": "The Annual Leave Law 5711-1951 establishes the right of every employee to paid annual leave. It sets minimum leave entitlements based on length of service and regulates the timing and payment of leave.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Scope",
+      "content": "Section 1. Every employee is entitled to annual leave with pay in accordance with this Law."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Leave Entitlement",
+      "content": "Section 3. The minimum annual leave entitlement is: (a) 14 working days for the first 4 years of employment; (b) 16 days in the 5th year; (c) 18 days in the 6th year; (d) 21 days in the 7th year and beyond."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "Timing of Leave",
+      "content": "Section 5. The employer shall determine the timing of the annual leave after consulting with the employee. At least 7 consecutive days of leave shall be granted."
+    },
+    {
+      "provision_ref": "sec10",
+      "section": "10",
+      "title": "Leave Payment",
+      "content": "Section 10. During annual leave, the employee shall be paid leave pay equivalent to the regular wages the employee would have received had the employee worked during that period."
+    }
+  ],
+  "definitions": []
+}

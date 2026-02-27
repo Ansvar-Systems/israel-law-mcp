@@ -1,0 +1,74 @@
+{
+  "id": "basic-law-freedom-of-occupation-1994",
+  "type": "statute",
+  "title": "חוק יסוד: חופש העיסוק",
+  "title_en": "Basic Law: Freedom of Occupation, 5754-1994",
+  "short_name": "BL-FOO",
+  "status": "in_force",
+  "issued_date": "1994-03-09",
+  "in_force_date": "1994-03-09",
+  "url": "https://m.knesset.gov.il/EN/activity/documents/BasicLawsPDF/BasicLawOccupation.pdf",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Basic principles",
+      "content": "The basic human rights in Israel are based on the recognition of the value of the human being, the sanctity of his life, and his being a free person, and they shall be upheld in the spirit of the principles in the Declaration of the Establishment of the State of Israel. Purpose"
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Purpose",
+      "content": "The purpose of this Basic Law is to protect the freedom of occupation, in order to establish the values of the State of Israel as a Jewish and Democratic state, in a basic law. Freedom of occupation"
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Freedom of occupation",
+      "content": "Every citizen or inhabitant of the State is entitled to engage in any occupation, profession or trade. Violation of the freedom of occupation"
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Violation of the freedom of occupation",
+      "content": "The freedom of occupation is not to be violated, save by a law that corresponds to the values of the State of Israel, which is designed to serve an appropriate purpose, and to an extent no greater than required, or on the basis of a law, as aforementioned, by force of an explicit authorization therein. Application"
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "Application",
+      "content": "Each one of the government authorities is obliged to uphold the freedom of occupation of every citizen or resident. Stability"
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "Stability",
+      "content": "Emergency regulations do not have the power to change this Basic Law, to temporarily suspend its validity, or to subject it to conditions. Rigidity"
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "Rigidity",
+      "content": "This Basic Law is not to be changed save by a basic-law that was adopted by a majority of the Knesset Members. The validity of a divergent law (Amendment No. 2) 8 (a) A provision of the law that violates the freedom of occupation, shall be valid even though it does not correspond with article 4, if it was included in a law that was adopted by a majority of the Knesset Members, and explicitly states that it is valid despite what is stated in this Basic Law. The validity of a law, as stated, shall expire at the end of four years from its inception, unless an earlier date was prescribed in it. (b) The provision regarding the expiration of validity, as stated in clause (a), shall not apply to a law adopted before the end of a year from the inception date of this Basic Law. Repeal"
+    },
+    {
+      "provision_ref": "sec9",
+      "section": "9",
+      "title": "Repeal",
+      "content": "Temporary provision (Amendments Nos. 1 & 2)"
+    },
+    {
+      "provision_ref": "sec10",
+      "section": "10",
+      "title": "Temporary provision 2)",
+      "content": "Legislative provisions, which in the absence of this BasicLaw, or the Basic Law that was repealed as stated in article 9, were valid on the eve of the inception of this Basic Law, shall remain in force until the 1st of Nisan 5762 (March 14, 2002), unless they were repealed beforehand, but the interpretation of the said provisions shall be construed in the spirit of this Basic-Law. Amendment of BasicLaw: Human Dignity and Liberty"
+    },
+    {
+      "provision_ref": "sec11",
+      "section": "11",
+      "title": "Amendment of BasicLaw: Human Dignity and Liberty",
+      "content": "[Was integrated into Basic law: Human Dignity and Liberty]"
+    }
+  ],
+  "definitions": []
+}

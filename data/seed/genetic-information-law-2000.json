@@ -1,0 +1,45 @@
+{
+  "id": "genetic-information-law-2000",
+  "type": "statute",
+  "title": "חוק מידע גנטי, תש\"ס-2000",
+  "title_en": "Genetic Information Law, 5761-2000",
+  "short_name": "GIL",
+  "status": "in_force",
+  "issued_date": "2000-12-25",
+  "in_force_date": "2001-01-01",
+  "url": "https://www.nevo.co.il/law_html/law01/999_211.htm",
+  "description": "The Genetic Information Law 5761-2000 regulates the performance of genetic tests, storage of genetic samples, and use of genetic information in Israel. It restricts insurance and employment discrimination based on genetic information and establishes the Genetic Information Board.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Purpose",
+      "content": "Section 1. This Law regulates genetic testing, the handling of genetic samples, and the use of genetic information, in order to protect the dignity and privacy of individuals while enabling the use of genetic tests for medical treatment, research, and law enforcement."
+    },
+    {
+      "provision_ref": "sec11",
+      "section": "11",
+      "title": "Prohibition of Genetic Discrimination",
+      "content": "Section 11. (a) No insurer shall require a person to undergo a genetic test or to disclose genetic test results as a condition of insurance. (b) An insurer shall not use genetic test results in determining insurance terms."
+    },
+    {
+      "provision_ref": "sec13",
+      "section": "13",
+      "title": "Employment Discrimination",
+      "content": "Section 13. An employer shall not require an employee or job applicant to undergo a genetic test or to disclose genetic test results, and shall not use genetic test results in employment decisions."
+    },
+    {
+      "provision_ref": "sec18",
+      "section": "18",
+      "title": "Genetic Database",
+      "content": "Section 18. A person who maintains a genetic database shall register the database with the Genetic Information Board and shall comply with security requirements prescribed by the Board for the protection of genetic information."
+    },
+    {
+      "provision_ref": "sec28",
+      "section": "28",
+      "title": "Confidentiality",
+      "content": "Section 28. Genetic information is confidential. No person shall disclose genetic information except with the consent of the person to whom the information relates, for the purpose of medical treatment, or as required by law."
+    }
+  ],
+  "definitions": []
+}

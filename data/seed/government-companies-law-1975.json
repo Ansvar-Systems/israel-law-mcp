@@ -1,0 +1,45 @@
+{
+  "id": "government-companies-law-1975",
+  "type": "statute",
+  "title": "חוק החברות הממשלתיות, תשל\"ו-1975",
+  "title_en": "Government Companies Law, 5735-1975",
+  "short_name": "GCL",
+  "status": "in_force",
+  "issued_date": "1975-08-04",
+  "in_force_date": "1975-08-04",
+  "url": "https://www.nevo.co.il/law_html/law01/070_001.htm",
+  "description": "The Government Companies Law 5735-1975 governs the establishment, management, and oversight of companies owned or controlled by the Government of Israel. It establishes corporate governance requirements, transparency obligations, and the role of the Government Companies Authority.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "Section 1. In this Law: \"government company\" - a company in which more than half of the voting power or the right to appoint more than half of the directors is held, directly or indirectly, by the Government or by a government company; \"Government Companies Authority\" - the authority established under this Law to supervise government companies."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Application",
+      "content": "Section 4. The Companies Law applies to government companies subject to the modifications prescribed by this Law."
+    },
+    {
+      "provision_ref": "sec18A",
+      "section": "18A",
+      "title": "Disclosure",
+      "content": "Section 18A. Government companies shall disclose to the Government Companies Authority and to the public information regarding their operations, financial condition, and material decisions, including information relating to information security and data protection."
+    },
+    {
+      "provision_ref": "sec32",
+      "section": "32",
+      "title": "Audit",
+      "content": "Section 32. Government companies are subject to audit by the State Comptroller and shall cooperate fully with audit proceedings."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "government company",
+      "definition": "A company in which more than half of the voting power or the right to appoint more than half of the directors is held by the Government",
+      "source_provision": "sec1"
+    }
+  ]
+}

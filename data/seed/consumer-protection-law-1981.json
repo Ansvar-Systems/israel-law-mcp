@@ -1,0 +1,62 @@
+{
+  "id": "consumer-protection-law-1981",
+  "type": "statute",
+  "title": "חוק הגנת הצרכן, תשמ\"א-1981",
+  "title_en": "Consumer Protection Law, 5741-1981",
+  "short_name": "CPL",
+  "status": "in_force",
+  "issued_date": "1981-03-12",
+  "in_force_date": "1981-09-01",
+  "url": "https://www.nevo.co.il/law_html/law01/999_075.htm",
+  "description": "The Consumer Protection Law 5741-1981 protects consumers against unfair business practices, misleading advertising, and defective goods and services. It establishes disclosure requirements, cooling-off periods for distance selling, and class action provisions. The law is relevant to digital commerce, online services, and SaaS agreements.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "Section 1. In this Law: \"consumer\" - a person who purchases or receives a product or service from a dealer; \"dealer\" - a person who sells or provides a product or service in the course of business; \"product\" - movable property and immovable property, including rights."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Misleading Conduct",
+      "content": "Section 2. No dealer shall, by act or omission, by oral or written statement, or in any other manner, mislead a consumer in any material matter relating to a transaction."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Disclosure Requirements",
+      "content": "Section 4. A dealer shall disclose to a consumer, before a transaction, all material information regarding the product or service, including its essential characteristics, price, warranty, and any known defects."
+    },
+    {
+      "provision_ref": "sec14A",
+      "section": "14A",
+      "title": "Distance Selling Cancellation",
+      "content": "Section 14A. (a) A consumer who has entered into a transaction by distance selling (including internet, telephone, or mail order) may cancel the transaction within 14 days of receipt of the product or the making of the contract, whichever is later. (b) In case of cancellation, the dealer shall refund the payment within 14 days."
+    },
+    {
+      "provision_ref": "sec18",
+      "section": "18",
+      "title": "Unfair Contract Terms",
+      "content": "Section 18. A court may declare void or modify a contract term that is unfair or unconscionable, taking into account the circumstances of the transaction and the relative bargaining power of the parties."
+    },
+    {
+      "provision_ref": "sec31",
+      "section": "31",
+      "title": "Class Actions",
+      "content": "Section 31. A consumer may bring a class action on behalf of a group of consumers who have been similarly affected by a dealer's violation of this Law."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "consumer",
+      "definition": "A person who purchases or receives a product or service from a dealer",
+      "source_provision": "sec1"
+    },
+    {
+      "term": "dealer",
+      "definition": "A person who sells or provides a product or service in the course of business",
+      "source_provision": "sec1"
+    }
+  ]
+}

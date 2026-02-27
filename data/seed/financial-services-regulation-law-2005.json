@@ -1,0 +1,45 @@
+{
+  "id": "financial-services-regulation-law-2005",
+  "type": "statute",
+  "title": "חוק הפיקוח על שירותים פיננסיים, תשס\"ה-2005",
+  "title_en": "Financial Services Regulation (Financial Services) Law, 5765-2005",
+  "short_name": "FSRL",
+  "status": "in_force",
+  "issued_date": "2005-01-01",
+  "in_force_date": "2005-01-01",
+  "url": "https://www.nevo.co.il/law_html/law01/999_629.htm",
+  "description": "The Financial Services Regulation (Financial Services) Law 5765-2005 establishes the regulatory framework for non-banking financial services in Israel, including investment advice, portfolio management, and financial marketing. It requires licensing, imposes conduct-of-business rules, and includes client data protection obligations.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "Section 1. In this Law: \"financial service\" - investment advice, investment portfolio management, or investment marketing; \"licensee\" - a person licensed under this Law to provide financial services."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "License Requirement",
+      "content": "Section 2. No person shall provide a financial service except under a license issued by the Israel Securities Authority."
+    },
+    {
+      "provision_ref": "sec12",
+      "section": "12",
+      "title": "Client Data",
+      "content": "Section 12. A licensee shall maintain the confidentiality of client information and financial data and shall not disclose such information except as required for the provision of financial services, with the client's consent, or as required by law."
+    },
+    {
+      "provision_ref": "sec15",
+      "section": "15",
+      "title": "Record Keeping",
+      "content": "Section 15. A licensee shall maintain records of all communications, transactions, and client interactions for a period prescribed by regulation."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "financial service",
+      "definition": "Investment advice, investment portfolio management, or investment marketing",
+      "source_provision": "sec1"
+    }
+  ]
+}

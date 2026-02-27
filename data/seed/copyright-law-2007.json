@@ -1,0 +1,67 @@
+{
+  "id": "copyright-law-2007",
+  "type": "statute",
+  "title": "חוק זכות יוצרים, תשס\"ח-2007",
+  "title_en": "Copyright Law, 5768-2007",
+  "short_name": "CopyL",
+  "status": "in_force",
+  "issued_date": "2007-11-19",
+  "in_force_date": "2008-05-25",
+  "url": "https://www.nevo.co.il/law_html/law01/999_701.htm",
+  "description": "The Copyright Law 5768-2007 provides comprehensive copyright protection in Israel, replacing the pre-state Copyright Ordinance. It covers literary, artistic, dramatic, and musical works, computer programs, databases, broadcasts, and sound recordings. The law addresses digital rights management, ISP liability, and fair use.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "Section 1. In this Law: \"work\" - a literary work, artistic work, dramatic work, or musical work; \"literary work\" includes a computer program and a compilation of data (database); \"copyright\" - the exclusive right to perform the acts specified in Section 11 in respect of a work."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Copyright Subsistence",
+      "content": "Section 4. Copyright subsists in a work that is original and is fixed in any form."
+    },
+    {
+      "provision_ref": "sec11",
+      "section": "11",
+      "title": "Exclusive Rights",
+      "content": "Section 11. The owner of a copyright in a work has the exclusive right to: (1) reproduce the work; (2) publish the work; (3) perform the work in public; (4) broadcast the work; (5) make the work available to the public; (6) make an adaptation of the work; (7) rent a copy of the work (for sound recordings and computer programs)."
+    },
+    {
+      "provision_ref": "sec19",
+      "section": "19",
+      "title": "Fair Use",
+      "content": "Section 19. (a) Fair use of a work is permitted for purposes such as: private study, research, criticism, review, reporting, quotation, or instruction and examination by an educational institution. (b) In determining whether a use is fair, the following factors shall be considered: (1) the purpose and character of the use; (2) the character of the work used; (3) the extent of the use; (4) the effect on the market value of the work."
+    },
+    {
+      "provision_ref": "sec50",
+      "section": "50",
+      "title": "Technological Protection Measures",
+      "content": "Section 50. No person shall circumvent a technological measure that effectively controls access to a copyrighted work or prevents the exercise of an act that constitutes an infringement of copyright. A person who circumvents such measures is liable as if he had infringed the copyright."
+    },
+    {
+      "provision_ref": "sec53",
+      "section": "53",
+      "title": "ISP Liability",
+      "content": "Section 53. An internet service provider shall not be liable for copyright infringement committed by a user of its service if the provider: (a) did not know of the infringing activity; (b) upon receiving notice, acted expeditiously to remove or disable access to the infringing material."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "work",
+      "definition": "A literary work, artistic work, dramatic work, or musical work",
+      "source_provision": "sec1"
+    },
+    {
+      "term": "literary work",
+      "definition": "Includes a computer program and a compilation of data (database)",
+      "source_provision": "sec1"
+    },
+    {
+      "term": "copyright",
+      "definition": "The exclusive right to perform acts specified in Section 11 in respect of a work",
+      "source_provision": "sec1"
+    }
+  ]
+}

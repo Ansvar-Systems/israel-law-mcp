@@ -1,0 +1,39 @@
+{
+  "id": "database-registration-regulations-1986",
+  "type": "statute",
+  "title": "תקנות הגנת הפרטיות (רישום מאגרי מידע), תשמ\"ז-1986",
+  "title_en": "Protection of Privacy (Registration of Databases) Regulations, 5746-1986",
+  "short_name": "DBRR",
+  "status": "in_force",
+  "issued_date": "1986-01-01",
+  "in_force_date": "1986-01-01",
+  "url": "https://www.nevo.co.il/law_html/law01/999_121.htm",
+  "description": "The Protection of Privacy (Registration of Databases) Regulations 5746-1986 implement Section 8 of the Privacy Protection Law 1981. They require registration of databases containing personal information with the Registrar of Databases, including details about the database purpose, types of data stored, data sharing arrangements, and security measures.",
+  "provisions": [
+    {
+      "provision_ref": "reg1",
+      "section": "1",
+      "title": "Registration Requirement",
+      "content": "Regulation 1. Every database owner required to register under Section 8 of the Privacy Protection Law shall submit a registration application to the Registrar of Databases."
+    },
+    {
+      "provision_ref": "reg2",
+      "section": "2",
+      "title": "Registration Details",
+      "content": "Regulation 2. The registration application shall include: (a) the name and address of the database owner; (b) the purpose of the database; (c) the types of information stored; (d) the categories of data subjects; (e) the persons to whom information from the database may be transferred; (f) a description of security measures."
+    },
+    {
+      "provision_ref": "reg3",
+      "section": "3",
+      "title": "Changes",
+      "content": "Regulation 3. A database owner shall notify the Registrar of any material change in the particulars registered within 30 days of the change."
+    },
+    {
+      "provision_ref": "reg6",
+      "section": "6",
+      "title": "Public Register",
+      "content": "Regulation 6. The Registrar shall maintain a public register of databases. Any person may inspect the register and obtain information regarding registered databases."
+    }
+  ],
+  "definitions": []
+}

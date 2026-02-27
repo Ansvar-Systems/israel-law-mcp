@@ -1,0 +1,33 @@
+{
+  "id": "severance-pay-law-1963",
+  "type": "statute",
+  "title": "חוק פיצויים, תשכ\"ג-1963",
+  "title_en": "Severance Pay Law, 5723-1963",
+  "short_name": "SPL",
+  "status": "in_force",
+  "issued_date": "1963-01-01",
+  "in_force_date": "1963-01-01",
+  "url": "https://www.nevo.co.il/law_html/law01/035_001.htm",
+  "description": "The Severance Pay Law 5723-1963 establishes the right of employees to severance pay upon termination of employment. It defines the circumstances in which severance pay is due, the calculation method, and special provisions for resignation and retirement.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Entitlement",
+      "content": "Section 1. An employee who is dismissed after one year of continuous employment with the same employer is entitled to severance pay."
+    },
+    {
+      "provision_ref": "sec12",
+      "section": "12",
+      "title": "Calculation",
+      "content": "Section 12. Severance pay shall be calculated at the rate of one month's wages for each year of employment."
+    },
+    {
+      "provision_ref": "sec14",
+      "section": "14",
+      "title": "Section 14 Arrangement",
+      "content": "Section 14. The Minister of Labor may, with the approval of the Finance Committee of the Knesset, provide that employer contributions to a severance fund or pension fund shall be deemed to be in lieu of severance pay. This is commonly known as the \"Section 14 arrangement\" and applies to most employees in Israel."
+    }
+  ],
+  "definitions": []
+}

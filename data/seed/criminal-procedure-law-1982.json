@@ -1,0 +1,45 @@
+{
+  "id": "criminal-procedure-law-1982",
+  "type": "statute",
+  "title": "חוק סדר הדין הפלילי [נוסח משולב], תשמ\"ב-1982",
+  "title_en": "Criminal Procedure Law (Consolidated Version), 5742-1982",
+  "short_name": "CrimPL",
+  "status": "in_force",
+  "issued_date": "1982-01-01",
+  "in_force_date": "1982-01-01",
+  "url": "https://www.nevo.co.il/law_html/law01/999_092.htm",
+  "description": "The Criminal Procedure Law (Consolidated Version) 5742-1982 governs criminal procedure in Israel from investigation through trial, sentencing, and appeal. It is relevant to cybercrime prosecution and digital forensics.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Scope",
+      "content": "Section 1. This Law applies to all criminal proceedings in Israel."
+    },
+    {
+      "provision_ref": "sec23",
+      "section": "23",
+      "title": "Search and Seizure",
+      "content": "Section 23. A court may issue a search warrant authorizing a police officer to enter premises and search for and seize evidence of an offense, including electronic devices and digital storage media."
+    },
+    {
+      "provision_ref": "sec43",
+      "section": "43",
+      "title": "Arrest",
+      "content": "Section 43. A police officer may arrest a person without a warrant if the officer has reasonable grounds to believe that the person has committed or is about to commit an offense."
+    },
+    {
+      "provision_ref": "sec60A",
+      "section": "60A",
+      "title": "Plea Bargain",
+      "content": "Section 60A. The prosecution and the accused may reach a plea agreement regarding the charges, the facts, and the punishment, subject to the approval of the court."
+    },
+    {
+      "provision_ref": "sec74",
+      "section": "74",
+      "title": "Disclosure of Evidence",
+      "content": "Section 74. The prosecution shall disclose to the defense all evidence in its possession that is relevant to the case, including evidence favorable to the accused."
+    }
+  ],
+  "definitions": []
+}

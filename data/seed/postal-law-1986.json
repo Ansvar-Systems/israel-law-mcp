@@ -1,0 +1,39 @@
+{
+  "id": "postal-law-1986",
+  "type": "statute",
+  "title": "חוק רשות הדואר, תשמ\"ז-1986",
+  "title_en": "Postal Authority Law, 5746-1986",
+  "short_name": "PAL",
+  "status": "in_force",
+  "issued_date": "1986-01-01",
+  "in_force_date": "1987-01-01",
+  "url": "https://www.nevo.co.il/law_html/law01/999_120.htm",
+  "description": "The Postal Authority Law 5746-1986 governs postal services in Israel. It establishes the Israel Postal Company, regulates mail services, and protects the privacy of postal communications. The law includes provisions on the secrecy of correspondence and conditions for opening mail.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "Section 1. In this Law: \"postal services\" - the collection, sorting, transport, and delivery of letters, parcels, and other postal items; \"postal item\" - any letter, parcel, or other object sent through the postal service."
+    },
+    {
+      "provision_ref": "sec37",
+      "section": "37",
+      "title": "Secrecy of Correspondence",
+      "content": "Section 37. (a) The Israel Postal Company, its employees and agents shall maintain the secrecy of correspondence and shall not open, examine, or disclose the contents of any postal item except as authorized by law. (b) The secrecy obligation continues after termination of employment."
+    },
+    {
+      "provision_ref": "sec38",
+      "section": "38",
+      "title": "Opening of Mail",
+      "content": "Section 38. A postal item may be opened only: (a) with the consent of the sender or addressee; (b) pursuant to a court order; (c) if there is a reasonable suspicion that the item contains a prohibited substance or dangerous material."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "postal services",
+      "definition": "The collection, sorting, transport, and delivery of letters, parcels, and other postal items",
+      "source_provision": "sec1"
+    }
+  ]
+}

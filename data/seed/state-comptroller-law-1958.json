@@ -1,0 +1,39 @@
+{
+  "id": "state-comptroller-law-1958",
+  "type": "statute",
+  "title": "חוק מבקר המדינה, תשי\"ט-1958",
+  "title_en": "State Comptroller Law, 5718-1958 (Consolidated Version)",
+  "short_name": "StCL",
+  "status": "in_force",
+  "issued_date": "1958-01-01",
+  "in_force_date": "1958-01-01",
+  "url": "https://www.nevo.co.il/law_html/law01/016_001.htm",
+  "description": "The State Comptroller Law 5718-1958 establishes the State Comptroller as the external auditor of the Government, government companies, local authorities, and other public bodies. The State Comptroller also serves as the Ombudsman for public complaints.",
+  "provisions": [
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Function",
+      "content": "Section 2. The State Comptroller shall audit the activities of the Government, government ministries, defense establishment, local authorities, government companies, and other bodies subject to audit under this Law."
+    },
+    {
+      "provision_ref": "sec9",
+      "section": "9",
+      "title": "Scope of Audit",
+      "content": "Section 9. The audit shall examine whether the audited body has acted lawfully, with integrity, in accordance with sound administration, and with due regard to economy and efficiency, including the protection of information and data."
+    },
+    {
+      "provision_ref": "sec36",
+      "section": "36",
+      "title": "Public Complaints",
+      "content": "Section 36. Any person may file a complaint with the State Comptroller regarding any act or omission of a body subject to audit that directly affects the complainant."
+    },
+    {
+      "provision_ref": "sec45",
+      "section": "45",
+      "title": "Confidentiality",
+      "content": "Section 45. The State Comptroller and its staff shall maintain the confidentiality of information obtained in the course of audit and complaint proceedings."
+    }
+  ],
+  "definitions": []
+}

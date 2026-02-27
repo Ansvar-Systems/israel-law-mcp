@@ -1,0 +1,51 @@
+{
+  "id": "cyber-defense-law-2016",
+  "type": "statute",
+  "title": "הנחיית רשות הסייבר הלאומי להגנת הסייבר בגופים ציבוריים",
+  "title_en": "National Cyber Directorate - Cyber Defense Directive for Public Bodies, 2016",
+  "short_name": "CDD",
+  "status": "in_force",
+  "issued_date": "2016-02-14",
+  "in_force_date": "2016-02-14",
+  "url": "https://www.gov.il/en/departments/news/14022016_01",
+  "description": "The National Cyber Directorate (INCD) Cyber Defense Directive for Public Bodies (2016) establishes cybersecurity requirements for designated public bodies and critical infrastructure operators in Israel. Based on authority derived from the Regulation of Security in Public Bodies Law, this directive mandates risk assessments, security controls, incident reporting, and coordination with the National Cyber Directorate.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Scope",
+      "content": "Section 1. This Directive applies to public bodies designated by the National Cyber Directorate as requiring cyber defense measures, including government ministries, critical infrastructure operators, and other designated organizations."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Cyber Risk Assessment",
+      "content": "Section 2. Each designated body shall conduct a comprehensive cyber risk assessment at least annually, identifying threats, vulnerabilities, and potential impacts to its information systems and operational technology."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Security Controls",
+      "content": "Section 3. Designated bodies shall implement security controls based on the risk assessment, including: (a) access controls and identity management; (b) network security and segmentation; (c) endpoint protection; (d) data encryption in transit and at rest; (e) security monitoring and logging; (f) vulnerability management and patching."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Incident Reporting",
+      "content": "Section 4. Designated bodies shall report significant cyber incidents to the National Cyber Directorate within 24 hours of detection. The report shall include the nature of the incident, systems affected, data compromised, and remediation actions taken."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "CISO Appointment",
+      "content": "Section 5. Each designated body shall appoint a Chief Information Security Officer (CISO) responsible for implementing and overseeing the cyber defense program."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "Annual Audit",
+      "content": "Section 6. Designated bodies shall undergo an annual cyber security audit conducted by a qualified external auditor, with results reported to the National Cyber Directorate."
+    }
+  ],
+  "definitions": []
+}

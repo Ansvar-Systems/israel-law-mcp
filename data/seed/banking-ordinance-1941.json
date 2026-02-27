@@ -1,0 +1,50 @@
+{
+  "id": "banking-ordinance-1941",
+  "type": "statute",
+  "title": "פקודת הבנקאות, 1941",
+  "title_en": "Banking Ordinance, 1941",
+  "short_name": "BO",
+  "status": "in_force",
+  "issued_date": "1941-01-01",
+  "in_force_date": "1941-01-01",
+  "url": "https://www.nevo.co.il/law_html/law01/p187_001.htm",
+  "description": "The Banking Ordinance 1941 is the foundational legislation governing banking in Israel, originally enacted during the British Mandate period and subsequently amended. It establishes the licensing framework for banks, prudential requirements, and the supervisory authority of the Bank of Israel over the banking system.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "Section 1. Definitions. \"banking business\" - the acceptance of deposits of money from the public for the purpose of lending or investing, and including the provision of banking services; \"bank\" - a body corporate licensed to conduct banking business under this Ordinance; \"Supervisor of Banks\" - the officer appointed by the Governor of the Bank of Israel to supervise banks."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "License Requirement",
+      "content": "Section 2. No person shall conduct banking business except under a license issued under this Ordinance."
+    },
+    {
+      "provision_ref": "sec14A",
+      "section": "14A",
+      "title": "Banking Secrecy",
+      "content": "Section 14A. Banking Secrecy. (a) A bank, its officers, employees, and agents shall maintain the confidentiality of information regarding customers' accounts and affairs. (b) Banking information shall not be disclosed except with the customer's consent or as required by law."
+    },
+    {
+      "provision_ref": "sec22",
+      "section": "22",
+      "title": "Supervision",
+      "content": "Section 22. The Supervisor of Banks shall supervise the operations of banks and ensure compliance with this Ordinance, including the maintenance of adequate capital, liquidity, and risk management practices."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "banking business",
+      "definition": "The acceptance of deposits of money from the public for the purpose of lending or investing, and including the provision of banking services",
+      "source_provision": "sec1"
+    },
+    {
+      "term": "Supervisor of Banks",
+      "definition": "The officer appointed by the Governor of the Bank of Israel to supervise banks",
+      "source_provision": "sec1"
+    }
+  ]
+}

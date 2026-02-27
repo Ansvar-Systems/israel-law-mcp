@@ -1,0 +1,33 @@
+{
+  "id": "employment-law-1959",
+  "type": "statute",
+  "title": "חוק שירות התעסוקה, תשי\"ט-1959",
+  "title_en": "Employment Service Law, 5719-1959",
+  "short_name": "EmSL",
+  "status": "in_force",
+  "issued_date": "1959-01-01",
+  "in_force_date": "1959-01-01",
+  "url": "https://www.nevo.co.il/law_html/law01/017_002.htm",
+  "description": "The Employment Service Law 5719-1959 establishes the public employment service in Israel. It regulates the operation of employment agencies, job placement services, and worker protection in the hiring process.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Employment Service",
+      "content": "Section 1. There shall be a public employment service that shall assist in matching workers with employers."
+    },
+    {
+      "provision_ref": "sec8",
+      "section": "8",
+      "title": "Private Employment Agencies",
+      "content": "Section 8. No person shall operate an employment agency except under a license issued by the Minister of Labor."
+    },
+    {
+      "provision_ref": "sec13",
+      "section": "13",
+      "title": "Anti-Discrimination",
+      "content": "Section 13. An employment agency shall not discriminate against any person seeking employment on the basis of race, religion, sex, nationality, country of origin, sexual orientation, political opinion, or personal status."
+    }
+  ],
+  "definitions": []
+}

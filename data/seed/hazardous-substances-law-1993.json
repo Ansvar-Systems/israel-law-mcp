@@ -1,0 +1,45 @@
+{
+  "id": "hazardous-substances-law-1993",
+  "type": "statute",
+  "title": "חוק החומרים המסוכנים, תשנ\"ג-1993",
+  "title_en": "Hazardous Substances Law, 5753-1993",
+  "short_name": "HSL",
+  "status": "in_force",
+  "issued_date": "1993-01-01",
+  "in_force_date": "1993-01-01",
+  "url": "https://www.nevo.co.il/law_html/law01/999_285.htm",
+  "description": "The Hazardous Substances Law 5753-1993 regulates the production, import, storage, transport, and disposal of hazardous substances. It establishes licensing requirements, safety standards, and emergency response obligations. Relevant to industrial cybersecurity in chemical and manufacturing sectors.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "Section 1. In this Law: \"hazardous substance\" - a substance listed in the First Schedule to this Law, or any substance that may endanger human health, public safety, or the environment; \"toxin license\" - a license to handle hazardous substances issued under this Law."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "License Requirement",
+      "content": "Section 3. No person shall produce, import, store, transport, sell, or otherwise deal in a hazardous substance except under a toxin license issued by the Minister of Environmental Protection."
+    },
+    {
+      "provision_ref": "sec8",
+      "section": "8",
+      "title": "Safety Requirements",
+      "content": "Section 8. A license holder shall implement safety measures as prescribed by the Minister, including emergency response plans, containment measures, and worker protection."
+    },
+    {
+      "provision_ref": "sec15",
+      "section": "15",
+      "title": "Incident Reporting",
+      "content": "Section 15. A person who handles hazardous substances shall immediately report to the Ministry of Environmental Protection any incident involving the release of a hazardous substance."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "hazardous substance",
+      "definition": "A substance that may endanger human health, public safety, or the environment, listed in the First Schedule",
+      "source_provision": "sec1"
+    }
+  ]
+}

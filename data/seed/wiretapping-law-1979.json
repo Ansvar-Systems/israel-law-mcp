@@ -1,0 +1,51 @@
+{
+  "id": "wiretapping-law-1979",
+  "type": "statute",
+  "title": "חוק האזנת סתר, תשל\"ט-1979",
+  "title_en": "Wiretapping Law, 5739-1979",
+  "short_name": "WL",
+  "status": "in_force",
+  "issued_date": "1979-01-01",
+  "in_force_date": "1979-01-01",
+  "url": "https://www.nevo.co.il/law_html/law01/073_008.htm",
+  "description": "The Wiretapping Law 5739-1979 regulates wiretapping and electronic surveillance in Israel. It prohibits unauthorized interception of communications, establishes a judicial warrant process for lawful interception, and sets penalties for illegal wiretapping. The law is directly relevant to cybersecurity surveillance, law enforcement access to communications, and privacy of electronic communications.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "Section 1. In this Law: \"wiretapping\" - listening to, recording, or copying of a communication transmitted through a telecommunications system, without the consent of at least one of the parties to the communication; \"communication\" - any conversation, message, or signal transmitted through a telecommunications system."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Prohibition of Wiretapping",
+      "content": "Section 2. No person shall perform wiretapping except as authorized under this Law. A person who performs unauthorized wiretapping is liable to imprisonment of 5 years."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "Wiretapping Warrant",
+      "content": "Section 6. (a) A District Court President may issue a warrant authorizing wiretapping if satisfied that the wiretapping is necessary for the investigation of a serious offense, and that there is no other reasonable means of obtaining the evidence. (b) A warrant shall specify the target, the telecommunications system, and the duration (not exceeding 3 months, renewable)."
+    },
+    {
+      "provision_ref": "sec13",
+      "section": "13",
+      "title": "Admissibility of Evidence",
+      "content": "Section 13. Evidence obtained through lawful wiretapping is admissible in court proceedings. Evidence obtained through unlawful wiretapping is inadmissible, except in a prosecution for the wiretapping offense itself."
+    },
+    {
+      "provision_ref": "sec14",
+      "section": "14",
+      "title": "Penalties",
+      "content": "Section 14. (a) A person who performs unauthorized wiretapping is liable to imprisonment of 5 years. (b) A person who discloses information obtained through unauthorized wiretapping is liable to imprisonment of 3 years."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "wiretapping",
+      "definition": "Listening to, recording, or copying of a communication transmitted through a telecommunications system, without the consent of at least one of the parties",
+      "source_provision": "sec1"
+    }
+  ]
+}

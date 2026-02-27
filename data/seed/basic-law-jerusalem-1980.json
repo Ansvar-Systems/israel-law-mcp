@@ -1,0 +1,74 @@
+{
+  "id": "basic-law-jerusalem-1980",
+  "type": "statute",
+  "title": "חוק יסוד: ירושלים בירת ישראל",
+  "title_en": "Basic Law: Jerusalem, Capital of Israel, 5740-1980",
+  "short_name": "BL-JER",
+  "status": "in_force",
+  "issued_date": "1980-07-30",
+  "in_force_date": "1980-07-30",
+  "url": "https://m.knesset.gov.il/EN/activity/documents/BasicLawsPDF/BasicLawJerusalem.pdf",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Jerusalem - the capital of Israel",
+      "content": "The complete and united Jerusalem is the capital of Israel. The seat of the President, the Knesset, the Government and the Supreme Court"
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "President, the Knesset, the Government and the Supreme Court",
+      "content": "Jerusalem is the seat of the President of the State, the Knesset, the Government, and the Supreme Court. Protection of the Holy Places"
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Protection of the Holy Places",
+      "content": "The Holy Places shall be protected against desecration, and any other violation, and against anything that is liable to violate the freedom of access of members of the various religions to the places sacred to them, or to offend their feelings towards those places. The development of Jerusalem"
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "The development of Jerusalem",
+      "content": "(a) The Government shall pursue the development and prosperity of Jerusalem, and the welfare of its inhabitants, by allocating special resources, including a special annual grant to the Municipality of Jerusalem (Capital City Grant), with the approval of the Knesset Finance Committee. (b) Jerusalem shall be granted special priorities in the activities of the State authorities for the development of Jerusalem in market and economic issues, and in other issues. (c) The Government shall set up a special body or bodies to implement this article. The confines of the territory of Jerusalem (Amendment No. 1)"
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "The confines of the territory of Jerusalem",
+      "content": "Inter alia, the limits of Jerusalem include, for the purpose of this Basic Law, the whole area described in the addendum to the declaration of the expansion of the limits of the Jerusalem municipality of 20 Sivan 5727 (June 28, 1967), that was issued under the Municipalities Ordinance. Prohibition to delegate powers (Amendment No. 1 & 2)"
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "Prohibition to delegate powers (Amendment No. 1 & 2)",
+      "content": "No powers concerning the limits of the Jerusalem Municipality area, including the area described in the addendum on the expansion of the area of the municipality of Jerusalem on 20 Sivan 5767 (June 28, 1967) that was issued under the Municipalities Ordinance, and all as was in force on the day of the beginning of Basic-Law: Jerusalem the Capital of Israel (Amendment No. 2), shall be transferred to a foreign political or governing power, or to another similar foreign authority, whether permanently or for a given period. Rigidity (Amendments No. 1 & 2)"
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "Rigidity (Amendments No. 1 & 2)",
+      "content": "The provisions of article 6 are not to be changed, save by a Basic law adopted by a majority of eighty Members of the Knesset. The provisions of this article are not to be changed save by means of a basic law adopted by a majority of the Knesset Members. (Adopted on December 7, 2000) Intention"
+    },
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Intention",
+      "content": "This Basic Law is designed to lay down in Basic-Law: Jerusalem the Capital of Israel, a limitation on a change of the confines of the territory of Jerusalem, and the application of the law, jurisdiction and administration of the State of Israel in this territory, and is also designed to prohibit the transfer of any sort of governmental or municipal authority, relating to the territory of Jerusalem, to any body, which does not act by force of a law of the State of Israel. Retention of laws."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Retention of laws.",
+      "content": "The amendment was integrated into articles 5-7 of the main law."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "The amendment was integrated into articles 5-7 of the main law.",
+      "content": "Nothing in the provisions of this Basic-Law will detract from the provisions of the Law for the Implementation of the Interim Agreement Regarding the West Bank and the Gaza Strip (limitation of activity) 5755-1994, or any previous legal provision."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "courts-law-1984",
+  "type": "statute",
+  "title": "חוק בתי המשפט [נוסח משולב], תשמ\"ד-1984",
+  "title_en": "Courts Law (Consolidated Version), 5744-1984",
+  "short_name": "CtL",
+  "status": "in_force",
+  "issued_date": "1984-01-01",
+  "in_force_date": "1984-01-01",
+  "url": "https://www.nevo.co.il/law_html/law01/999_104.htm",
+  "description": "The Courts Law (Consolidated Version) 5744-1984 establishes the structure and jurisdiction of the Israeli court system. It defines the hierarchy of courts (Magistrate, District, Supreme), jurisdiction rules, judicial appointment, and procedural matters.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Court System",
+      "content": "Section 1. The courts in Israel are: (1) the Magistrate's Court; (2) the District Court; (3) the Supreme Court."
+    },
+    {
+      "provision_ref": "sec51",
+      "section": "51",
+      "title": "Magistrate's Court Jurisdiction",
+      "content": "Section 51. A Magistrate's Court has jurisdiction in civil claims not exceeding 2,500,000 NIS and in criminal offenses punishable by up to 7 years imprisonment."
+    },
+    {
+      "provision_ref": "sec40",
+      "section": "40",
+      "title": "District Court Jurisdiction",
+      "content": "Section 40. The District Court has jurisdiction as a court of first instance in civil claims exceeding the monetary jurisdiction of the Magistrate's Court, in administrative petitions, and as an appellate court for decisions of the Magistrate's Court."
+    },
+    {
+      "provision_ref": "sec26",
+      "section": "26",
+      "title": "Supreme Court",
+      "content": "Section 26. The Supreme Court sits as a court of appeal from the District Court and, sitting as the High Court of Justice, has jurisdiction to issue orders to state authorities and public bodies."
+    }
+  ],
+  "definitions": []
+}

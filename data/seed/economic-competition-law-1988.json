@@ -1,0 +1,56 @@
+{
+  "id": "economic-competition-law-1988",
+  "type": "statute",
+  "title": "חוק התחרות הכלכלית, תשמ\"ט-1988",
+  "title_en": "Economic Competition Law, 5748-1988",
+  "short_name": "ECL",
+  "status": "in_force",
+  "issued_date": "1988-01-01",
+  "in_force_date": "1988-01-01",
+  "url": "https://www.nevo.co.il/law_html/law01/999_156.htm",
+  "description": "The Economic Competition Law 5748-1988 (formerly Restrictive Trade Practices Law) governs competition law and antitrust regulation in Israel. It establishes the Israel Competition Authority (formerly Antitrust Authority), prohibits anti-competitive agreements, regulates mergers, and addresses abuse of dominant position. Relevant to technology sector competition and digital markets.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "Section 1. In this Law: \"restrictive arrangement\" - an arrangement between business competitors that restricts competition; \"monopoly\" - a person who supplies or acquires more than 50% of the total supply or acquisition of a particular asset or service; \"Competition Authority\" - the authority established under this Law."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Prohibited Arrangements",
+      "content": "Section 2. (a) Parties to a restrictive arrangement shall not conduct business in accordance with the arrangement, unless the arrangement has been exempted or approved by the Competition Tribunal. (b) A restrictive arrangement includes: price-fixing, market allocation, bid rigging, output limitation, and resale price maintenance."
+    },
+    {
+      "provision_ref": "sec26",
+      "section": "26",
+      "title": "Abuse of Dominant Position",
+      "content": "Section 26. A monopolist shall not abuse its position to reduce competition or harm the public. Abuse includes: charging excessive prices, discriminating between customers, refusing to deal, exclusive dealing, and tying arrangements."
+    },
+    {
+      "provision_ref": "sec17",
+      "section": "17",
+      "title": "Merger Control",
+      "content": "Section 17. A proposed merger between companies is subject to the approval of the Commissioner of Competition if the combined turnover of the merging parties exceeds the threshold prescribed by the Minister of Economy."
+    },
+    {
+      "provision_ref": "sec43",
+      "section": "43",
+      "title": "Enforcement",
+      "content": "Section 43. The Commissioner may investigate violations of this Law and may impose administrative sanctions, seek injunctions, or refer matters for criminal prosecution."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "restrictive arrangement",
+      "definition": "An arrangement between business competitors that restricts competition",
+      "source_provision": "sec1"
+    },
+    {
+      "term": "monopoly",
+      "definition": "A person who supplies or acquires more than 50% of the total supply or acquisition of a particular asset or service",
+      "source_provision": "sec1"
+    }
+  ]
+}

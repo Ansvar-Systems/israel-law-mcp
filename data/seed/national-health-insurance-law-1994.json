@@ -1,0 +1,45 @@
+{
+  "id": "national-health-insurance-law-1994",
+  "type": "statute",
+  "title": "חוק ביטוח בריאות ממלכתי, תשנ\"ד-1994",
+  "title_en": "National Health Insurance Law, 5754-1994",
+  "short_name": "NHIL",
+  "status": "in_force",
+  "issued_date": "1994-06-26",
+  "in_force_date": "1995-01-01",
+  "url": "https://www.nevo.co.il/law_html/law01/999_289.htm",
+  "description": "The National Health Insurance Law 5754-1994 establishes universal health insurance in Israel through four health maintenance organizations (kupot holim). It mandates a comprehensive basket of medical services and regulates the collection and use of health data.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Right to Health Insurance",
+      "content": "Section 1. Every resident of Israel is entitled to health services under this Law."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Membership",
+      "content": "Section 3. Every resident shall be registered as a member of a health fund (kupat holim) of his or her choice."
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "Basket of Services",
+      "content": "Section 7. The health services to which an insured person is entitled are detailed in the Second Schedule to this Law (the \"health basket\"). The basket is updated annually by the Health Basket Committee."
+    },
+    {
+      "provision_ref": "sec20",
+      "section": "20",
+      "title": "Health Data",
+      "content": "Section 20. Health funds shall maintain medical databases for the purpose of providing health services. The collection, use, and transfer of health data shall be subject to the Privacy Protection Law and regulations made thereunder."
+    },
+    {
+      "provision_ref": "sec30",
+      "section": "30",
+      "title": "Supervision",
+      "content": "Section 30. The Ministry of Health shall supervise the health funds and ensure compliance with this Law, including the protection of patient data and health information systems security."
+    }
+  ],
+  "definitions": []
+}

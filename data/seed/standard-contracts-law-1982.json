@@ -1,0 +1,50 @@
+{
+  "id": "standard-contracts-law-1982",
+  "type": "statute",
+  "title": "חוק החוזים האחידים, תשמ\"ב-1982",
+  "title_en": "Standard Contracts Law, 5743-1982",
+  "short_name": "SCL",
+  "status": "in_force",
+  "issued_date": "1982-11-15",
+  "in_force_date": "1983-05-15",
+  "url": "https://www.nevo.co.il/law_html/law01/999_093.htm",
+  "description": "The Standard Contracts Law 5743-1982 regulates standard form contracts in Israel. It establishes the Standard Contracts Tribunal, which has authority to review and modify unfair terms in standard form contracts. This law is relevant to software licensing, SaaS agreements, terms of service, and privacy policies.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "Section 1. In this Law: \"standard contract\" - a contract whose terms, in whole or in part, have been predetermined by one party and the other party has had no significant ability to negotiate; \"restrictive condition\" - a condition in a standard contract that unduly restricts or denies a right to which the customer would otherwise be entitled."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Void Conditions",
+      "content": "Section 3. A restrictive condition in a standard contract that unduly restricts the rights of the customer or grants the supplier excessive advantages is void."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Specific Void Conditions",
+      "content": "Section 4. The following conditions are deemed to be restrictive: (a) exempting the supplier from liability for breach; (b) granting the supplier unilateral right to cancel the contract; (c) restricting the customer's right to legal remedies; (d) unilateral modification of contract terms; (e) automatic renewal without notice."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "Standard Contracts Tribunal",
+      "content": "Section 6. The Standard Contracts Tribunal may, upon application, declare a condition in a standard contract to be a restrictive condition and order its modification or annulment."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "standard contract",
+      "definition": "A contract whose terms have been predetermined by one party and the other party has had no significant ability to negotiate",
+      "source_provision": "sec1"
+    },
+    {
+      "term": "restrictive condition",
+      "definition": "A condition in a standard contract that unduly restricts or denies a right to which the customer would otherwise be entitled",
+      "source_provision": "sec1"
+    }
+  ]
+}

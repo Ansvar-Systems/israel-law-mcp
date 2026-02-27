@@ -1,0 +1,38 @@
+{
+  "id": "basic-law-referendum-2014",
+  "type": "statute",
+  "title": "חוק יסוד: משאל עם",
+  "title_en": "Basic Law: Referendum, 5774-2014",
+  "short_name": "BL-REF",
+  "status": "in_force",
+  "issued_date": "2014-03-12",
+  "in_force_date": "2014-03-12",
+  "url": "https://m.knesset.gov.il/EN/activity/documents/BasicLawsPDF/BasicLawReferendum.pdf",
+  "provisions": [
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "1.",
+      "content": "(a) Should the Government decide to ratify an agreement, or sign an agreement, according to which the law, jurisdiction and administration of the State of Israel shall no longer apply to territory in which they currently apply, including an agreement that involves a future undertaking, and a conditioned undertaking, after the agreement has been approved by the Knesset by a majority of its members, it shall require approval in a referendum, unless it has been approved by a majority of 80 Members of the Knesset. (b) Should the Government decide, by means other than an agreement, that the law, jurisdiction and administration of the State of Israel shall no longer apply to territory in which they currently apply, after the decision has been approved by the Knesset by a majority of its members, it shall require approval in a referendum, unless it has been approved by a majority of 80 Members of the Knesset. Anyone who would have had the right to participate in elections to the Knesset, were they to take place on the date on which the referendum is to be held, is entitled to participate in the referendum. Application of provisions"
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Application of provisions",
+      "content": "The legal provisions that apply to elections to the Knesset shall apply to the holding of the referendum, with the necessary adjustments, and changes prescribed by law. Stability"
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Stability",
+      "content": "Emergency regulations do not have the power to change this Basic Law, to temporarily invalidate it, or to set conditions to it. Rigidity"
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "Rigidity",
+      "content": "This Basic Law can only be changed by means of a basic law adopted by a majority of the Knesset Members."
+    }
+  ],
+  "definitions": []
+}

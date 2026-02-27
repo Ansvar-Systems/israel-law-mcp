@@ -1,0 +1,45 @@
+{
+  "id": "evidence-ordinance-1971",
+  "type": "statute",
+  "title": "פקודת הראיות [נוסח חדש], תשל\"א-1971",
+  "title_en": "Evidence Ordinance (New Version), 5731-1971",
+  "short_name": "EO",
+  "status": "in_force",
+  "issued_date": "1971-01-01",
+  "in_force_date": "1971-01-01",
+  "url": "https://www.nevo.co.il/law_html/law01/p232_001.htm",
+  "description": "The Evidence Ordinance (New Version) 5731-1971 governs the law of evidence in Israeli courts. It covers admissibility, competence and compellability of witnesses, documentary evidence, expert evidence, and electronic evidence. The ordinance addresses admissibility of computer-generated records, digital evidence, and electronic documents.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Scope",
+      "content": "Section 1. This Ordinance governs the law of evidence in civil and criminal proceedings in Israel, unless otherwise provided by statute."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Competence of Witnesses",
+      "content": "Section 3. Every person is competent to testify as a witness unless the court is satisfied that the person is incapable of understanding the duty to tell the truth."
+    },
+    {
+      "provision_ref": "sec35",
+      "section": "35",
+      "title": "Documentary Evidence",
+      "content": "Section 35. A document is admissible in evidence if it is an original or a certified copy, and if its authenticity has been established in accordance with this Ordinance."
+    },
+    {
+      "provision_ref": "sec36",
+      "section": "36",
+      "title": "Computer Records",
+      "content": "Section 36. (a) A printout of data stored in a computer is admissible in evidence if the court is satisfied that the computer was operating properly at the material time and that the data was regularly fed into the computer in the ordinary course of business. (b) Electronic records and computer-generated documents are admissible on the same terms."
+    },
+    {
+      "provision_ref": "sec54",
+      "section": "54",
+      "title": "Privileged Communications",
+      "content": "Section 54. Communications between a person and his or her attorney are privileged and may not be disclosed in evidence without the consent of the client."
+    }
+  ],
+  "definitions": []
+}

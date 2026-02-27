@@ -1,0 +1,51 @@
+{
+  "id": "patients-rights-law-1996",
+  "type": "statute",
+  "title": "חוק זכויות החולה, תשנ\"ז-1996",
+  "title_en": "Patient's Rights Law, 5756-1996",
+  "short_name": "PRL",
+  "status": "in_force",
+  "issued_date": "1996-05-01",
+  "in_force_date": "1996-05-01",
+  "url": "https://www.nevo.co.il/law_html/law01/999_529.htm",
+  "description": "The Patient's Rights Law 5756-1996 establishes the rights of patients in Israel, including informed consent, access to medical records, privacy of medical information, and the right to a second opinion. The law is directly relevant to health data privacy and electronic health records.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Purpose",
+      "content": "Section 1. The purpose of this Law is to establish the rights of patients receiving medical treatment while preserving their human dignity."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Right to Treatment",
+      "content": "Section 4. Every person in a medical emergency is entitled to receive medical treatment without preconditions."
+    },
+    {
+      "provision_ref": "sec13",
+      "section": "13",
+      "title": "Informed Consent",
+      "content": "Section 13. No medical treatment shall be given to a patient unless the patient has given informed consent. The physician shall provide the patient with medical information regarding the nature of the treatment, its risks and benefits, and alternatives."
+    },
+    {
+      "provision_ref": "sec17",
+      "section": "17",
+      "title": "Privacy of Medical Records",
+      "content": "Section 17. (a) Medical information regarding a patient is confidential. (b) A medical institution shall not disclose medical information except with the patient's consent, for the purpose of treatment, as required by law, or as authorized by a court. (c) Medical records shall be maintained securely."
+    },
+    {
+      "provision_ref": "sec18",
+      "section": "18",
+      "title": "Access to Medical Records",
+      "content": "Section 18. A patient is entitled to access his or her medical records and to receive a copy thereof."
+    },
+    {
+      "provision_ref": "sec19",
+      "section": "19",
+      "title": "Data Security",
+      "content": "Section 19. A medical institution shall take all reasonable measures to ensure the security and integrity of medical records, including electronic records, from unauthorized access, use, disclosure, or alteration."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,56 @@
+{
+  "id": "insurance-business-law-1981",
+  "type": "statute",
+  "title": "חוק הפיקוח על עסקי ביטוח, תשמ\"א-1981",
+  "title_en": "Insurance Business (Control) Law, 5741-1981",
+  "short_name": "IBL",
+  "status": "in_force",
+  "issued_date": "1981-01-01",
+  "in_force_date": "1981-01-01",
+  "url": "https://www.nevo.co.il/law_html/law01/999_079.htm",
+  "description": "The Insurance Business (Control) Law 5741-1981 regulates the insurance industry in Israel. It establishes licensing requirements for insurers and insurance agents, solvency requirements, policyholder protection, and supervisory authority of the Commissioner of Insurance (now Capital Markets Authority). The law includes data protection obligations for insurance companies handling policyholder personal information.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "Section 1. In this Law: \"insurer\" - a body corporate licensed to carry on insurance business in Israel; \"insurance agent\" - a person licensed to arrange insurance contracts on behalf of an insurer or insured; \"Commissioner\" - the Commissioner of Insurance appointed under this Law."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "License Requirement",
+      "content": "Section 2. No person shall carry on insurance business in Israel except under a license issued by the Commissioner."
+    },
+    {
+      "provision_ref": "sec15",
+      "section": "15",
+      "title": "Policyholder Data Protection",
+      "content": "Section 15. An insurer shall maintain the confidentiality of policyholder information and shall not disclose or use such information except as required for the provision of insurance services, with the policyholder's consent, or as required by law."
+    },
+    {
+      "provision_ref": "sec30",
+      "section": "30",
+      "title": "Solvency Requirements",
+      "content": "Section 30. An insurer shall maintain a margin of solvency as prescribed by the Commissioner, including adequate technical reserves, reinsurance arrangements, and capital buffers."
+    },
+    {
+      "provision_ref": "sec40",
+      "section": "40",
+      "title": "Information Security",
+      "content": "Section 40. An insurer shall implement information security measures to protect policyholder data, claims information, and other sensitive business information from unauthorized access, use, or disclosure."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "insurer",
+      "definition": "A body corporate licensed to carry on insurance business in Israel",
+      "source_provision": "sec1"
+    },
+    {
+      "term": "Commissioner",
+      "definition": "The Commissioner of Insurance appointed under this Law",
+      "source_provision": "sec1"
+    }
+  ]
+}

@@ -2,59 +2,75 @@
   "schema_version": "1.0",
   "jurisdiction": "IL",
   "portal": "knesset.gov.il + gov.il",
-  "generated": "2026-02-22",
-  "total_laws": 10,
-  "total_provisions": 135,
+  "generated": "2026-02-27",
+  "total_laws": 66,
+  "total_provisions": 537,
   "laws": [
-    {
-      "id": "basic-law-human-dignity-1992",
-      "title": "חוק יסוד: כבוד האדם וחירותו",
-      "provisions": 13
-    },
-    {
-      "id": "communications-law-1982",
-      "title": "חוק התקשורת (בזק ושידורים), תשמ\"ב-1982",
-      "provisions": 6
-    },
-    {
-      "id": "companies-law-1999",
-      "title": "חוק החברות, תשנ\"ט-1999",
-      "provisions": 6
-    },
-    {
-      "id": "computer-law-1995",
-      "title": "חוק המחשבים, תשנ\"ה-1995",
-      "provisions": 21
-    },
-    {
-      "id": "credit-data-law-2002",
-      "title": "חוק נתוני אשראי, תס\"ב-2002",
-      "provisions": 6
-    },
-    {
-      "id": "data-security-regulations-2017",
-      "title": "תקנות הגנת הפרטיות (אבטחת מידע), תשע\"ז-2017",
-      "provisions": 11
-    },
-    {
-      "id": "electronic-signature-law-2001",
-      "title": "חוק חתימה אלקטרונית, תס\"א-2001",
-      "provisions": 6
-    },
-    {
-      "id": "freedom-of-information-law-1998",
-      "title": "חוק חופש המידע, תשנ\"ח-1998",
-      "provisions": 6
-    },
-    {
-      "id": "privacy-protection-law-1981",
-      "title": "חוק הגנת הפרטיות, תשמ\"א-1981",
-      "provisions": 55
-    },
-    {
-      "id": "regulation-of-security-1998",
-      "title": "חוק הסדרת האבטחה בגופים ציבוריים, תשנ\"ח-1998",
-      "provisions": 5
-    }
+    { "id": "administrative-courts-law-2000", "title": "חוק בתי משפט לעניינים מינהליים, תש\"ס-2000", "provisions": 3 },
+    { "id": "annual-leave-law-1951", "title": "חוק חופשה שנתית, תשי\"א-1951", "provisions": 4 },
+    { "id": "anti-money-laundering-law-2000", "title": "חוק איסור הלבנת הון, תש\"ס-2000", "provisions": 6 },
+    { "id": "banking-licensing-law-1981", "title": "חוק הבנקאות (רישוי), תשמ\"א-1981", "provisions": 5 },
+    { "id": "banking-ordinance-1941", "title": "פקודת הבנקאות, 1941", "provisions": 4 },
+    { "id": "basic-law-freedom-of-occupation-1994", "title": "חוק יסוד: חופש העיסוק", "provisions": 10 },
+    { "id": "basic-law-human-dignity-1992", "title": "חוק יסוד: כבוד האדם וחירותו", "provisions": 13 },
+    { "id": "basic-law-israel-lands-1960", "title": "חוק יסוד: מקרקעי ישראל", "provisions": 3 },
+    { "id": "basic-law-jerusalem-1980", "title": "חוק יסוד: ירושלים בירת ישראל", "provisions": 7 },
+    { "id": "basic-law-legislation-2001", "title": "חוק יסוד: חקיקה", "provisions": 1 },
+    { "id": "basic-law-nation-state-2018", "title": "חוק יסוד: ישראל – מדינת הלאום של העם היהודי", "provisions": 10 },
+    { "id": "basic-law-referendum-2014", "title": "חוק יסוד: משאל עם", "provisions": 4 },
+    { "id": "basic-law-the-army-1976", "title": "חוק יסוד: הצבא", "provisions": 5 },
+    { "id": "basic-law-the-government-2001", "title": "חוק יסוד: הממשלה", "provisions": 51 },
+    { "id": "basic-law-the-judiciary-1984", "title": "חוק יסוד: השפיטה", "provisions": 23 },
+    { "id": "basic-law-the-knesset-1958", "title": "חוק יסוד: הכנסת", "provisions": 58 },
+    { "id": "basic-law-the-president-1964", "title": "חוק יסוד: נשיא המדינה", "provisions": 23 },
+    { "id": "basic-law-the-state-economy-1975", "title": "חוק יסוד: משק המדינה", "provisions": 8 },
+    { "id": "civil-procedure-regulations-1984", "title": "תקנות סדר הדין האזרחי, תשמ\"ד-1984", "provisions": 4 },
+    { "id": "civil-wrongs-ordinance-1968", "title": "פקודת הנזיקין [נוסח חדש], תשכ\"ט-1968", "provisions": 5 },
+    { "id": "communications-law-1982", "title": "חוק התקשורת (בזק ושידורים), תשמ\"ב-1982", "provisions": 6 },
+    { "id": "companies-law-1999", "title": "חוק החברות, תשנ\"ט-1999", "provisions": 6 },
+    { "id": "computer-law-1995", "title": "חוק המחשבים, תשנ\"ה-1995", "provisions": 21 },
+    { "id": "consumer-protection-law-1981", "title": "חוק הגנת הצרכן, תשמ\"א-1981", "provisions": 6 },
+    { "id": "contracts-general-part-law-1973", "title": "חוק החוזים (חלק כללי), תשל\"ד-1973", "provisions": 6 },
+    { "id": "copyright-law-2007", "title": "חוק זכות יוצרים, תשס\"ח-2007", "provisions": 6 },
+    { "id": "courts-law-1984", "title": "חוק בתי המשפט [נוסח משולב], תשמ\"ד-1984", "provisions": 4 },
+    { "id": "credit-data-law-2002", "title": "חוק נתוני אשראי, תס\"ב-2002", "provisions": 6 },
+    { "id": "criminal-procedure-law-1982", "title": "חוק סדר הדין הפלילי [נוסח משולב], תשמ\"ב-1982", "provisions": 5 },
+    { "id": "cyber-defense-law-2016", "title": "הנחיית רשות הסייבר הלאומי להגנת הסייבר בגופים ציבוריים", "provisions": 6 },
+    { "id": "data-security-regulations-2017", "title": "תקנות הגנת הפרטיות (אבטחת מידע), תשע\"ז-2017", "provisions": 11 },
+    { "id": "database-registration-regulations-1986", "title": "תקנות הגנת הפרטיות (רישום מאגרי מידע), תשמ\"ז-1986", "provisions": 4 },
+    { "id": "defense-service-law-1986", "title": "חוק שירות ביטחון [נוסח משולב], תשמ\"ז-1986", "provisions": 4 },
+    { "id": "economic-competition-law-1988", "title": "חוק התחרות הכלכלית, תשמ\"ט-1988", "provisions": 5 },
+    { "id": "electronic-signature-law-2001", "title": "חוק חתימה אלקטרונית, תס\"א-2001", "provisions": 6 },
+    { "id": "emergency-powers-detention-law-1979", "title": "חוק סמכויות שעת חירום (מעצרים), תשל\"י-1979", "provisions": 3 },
+    { "id": "employment-equal-opportunities-law-1988", "title": "חוק שוויון הזדמנויות בעבודה, תשמ\"ח-1988", "provisions": 3 },
+    { "id": "employment-law-1959", "title": "חוק שירות התעסוקה, תשי\"ט-1959", "provisions": 3 },
+    { "id": "encouragement-of-research-law-1984", "title": "חוק לעידוד מחקר ופיתוח וחדשנות טכנולוגית בתעשייה, תשמ\"ד-1984", "provisions": 5 },
+    { "id": "environmental-protection-law-2008", "title": "חוק אוויר נקי, תשס\"ח-2008", "provisions": 4 },
+    { "id": "evidence-ordinance-1971", "title": "פקודת הראיות [נוסח חדש], תשל\"א-1971", "provisions": 5 },
+    { "id": "financial-services-regulation-law-2005", "title": "חוק הפיקוח על שירותים פיננסיים, תשס\"ה-2005", "provisions": 4 },
+    { "id": "freedom-of-information-law-1998", "title": "חוק חופש המידע, תשנ\"ח-1998", "provisions": 6 },
+    { "id": "genetic-information-law-2000", "title": "חוק מידע גנטי, תש\"ס-2000", "provisions": 5 },
+    { "id": "government-companies-law-1975", "title": "חוק החברות הממשלתיות, תשל\"ו-1975", "provisions": 4 },
+    { "id": "hazardous-substances-law-1993", "title": "חוק החומרים המסוכנים, תשנ\"ג-1993", "provisions": 4 },
+    { "id": "hours-of-work-and-rest-law-1951", "title": "חוק שעות עבודה ומנוחה, תשי\"א-1951", "provisions": 6 },
+    { "id": "insurance-business-law-1981", "title": "חוק הפיקוח על עסקי ביטוח, תשמ\"א-1981", "provisions": 5 },
+    { "id": "national-health-insurance-law-1994", "title": "חוק ביטוח בריאות ממלכתי, תשנ\"ד-1994", "provisions": 5 },
+    { "id": "patent-law-1967", "title": "חוק הפטנטים, תשכ\"ז-1967", "provisions": 5 },
+    { "id": "patients-rights-law-1996", "title": "חוק זכויות החולה, תשנ\"ז-1996", "provisions": 6 },
+    { "id": "penal-law-1977", "title": "חוק העונשין, תשל\"ז-1977", "provisions": 6 },
+    { "id": "planning-and-building-law-1965", "title": "חוק התכנון והבנייה, תשכ\"ו-1965", "provisions": 4 },
+    { "id": "postal-law-1986", "title": "חוק רשות הדואר, תשמ\"ז-1986", "provisions": 3 },
+    { "id": "privacy-protection-law-1981", "title": "חוק הגנת הפרטיות, תשמ\"א-1981", "provisions": 55 },
+    { "id": "privacy-protection-transfer-abroad-regulations-2001", "title": "תקנות הגנת הפרטיות (העברת מידע למאגרי מידע שמחוץ לישראל), תס\"א-2001", "provisions": 4 },
+    { "id": "regulation-of-security-1998", "title": "חוק הסדרת האבטחה בגופים ציבוריים, תשנ\"ח-1998", "provisions": 5 },
+    { "id": "securities-law-1968", "title": "חוק ניירות ערך, תשכ\"ח-1968", "provisions": 6 },
+    { "id": "severance-pay-law-1963", "title": "חוק פיצויים, תשכ\"ג-1963", "provisions": 3 },
+    { "id": "standard-contracts-law-1982", "title": "חוק החוזים האחידים, תשמ\"ב-1982", "provisions": 4 },
+    { "id": "state-comptroller-law-1958", "title": "חוק מבקר המדינה, תשי\"ט-1958", "provisions": 4 },
+    { "id": "taxation-ordinance-1961", "title": "פקודת מס הכנסה [נוסח חדש], תשכ\"א-1961", "provisions": 5 },
+    { "id": "terror-financing-prohibition-law-2005", "title": "חוק איסור מימון טרור, תשס\"ה-2005", "provisions": 4 },
+    { "id": "trade-secrets-law-1999", "title": "חוק עוולות מסחריות, תשנ\"י-1999", "provisions": 3 },
+    { "id": "trademarks-ordinance-1972", "title": "פקודת סימני מסחר [נוסח חדש], תשל\"ב-1972", "provisions": 4 },
+    { "id": "wiretapping-law-1979", "title": "חוק האזנת סתר, תשל\"ט-1979", "provisions": 5 }
   ]
 }

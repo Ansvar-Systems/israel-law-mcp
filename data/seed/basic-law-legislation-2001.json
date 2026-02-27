@@ -1,0 +1,21 @@
+{
+  "id": "basic-law-legislation-2001",
+  "type": "statute",
+  "title": "חוק יסוד: חקיקה",
+  "title_en": "Basic Law: Legislation (draft — not yet enacted)",
+  "short_name": "BL-LEG",
+  "status": "not_yet_in_force",
+  "issued_date": "2001-01-01",
+  "in_force_date": "2001-01-01",
+  "url": "https://www.knesset.gov.il/laws/special/eng/BasicLawLegislation.pdf",
+  "description": "Basic Law: Legislation is a proposed Basic Law intended to define the legislative process of the Knesset. It was introduced as a draft but has not yet been enacted into law.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Legislative Authority",
+      "content": "Section 1. The Knesset is the legislative authority of the State."
+    }
+  ],
+  "definitions": []
+}

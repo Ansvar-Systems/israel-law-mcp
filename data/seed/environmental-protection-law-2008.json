@@ -1,0 +1,39 @@
+{
+  "id": "environmental-protection-law-2008",
+  "type": "statute",
+  "title": "חוק אוויר נקי, תשס\"ח-2008",
+  "title_en": "Clean Air Law, 5768-2008",
+  "short_name": "CAL",
+  "status": "in_force",
+  "issued_date": "2008-07-29",
+  "in_force_date": "2011-01-01",
+  "url": "https://www.nevo.co.il/law_html/law01/999_723.htm",
+  "description": "The Clean Air Law 5768-2008 regulates air pollution prevention and control in Israel. It establishes emission standards, permitting requirements, monitoring obligations, and enforcement mechanisms. Relevant to data center operations and industrial facility environmental compliance.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Purpose",
+      "content": "Section 1. The purpose of this Law is to bring about a significant improvement in air quality in Israel by preventing, reducing, and controlling air pollution, for the protection of human health and the environment."
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "Emission Permit",
+      "content": "Section 7. A person who operates a source of air pollution designated by the Minister shall not do so without an emission permit issued under this Law."
+    },
+    {
+      "provision_ref": "sec11",
+      "section": "11",
+      "title": "Emission Standards",
+      "content": "Section 11. The Minister of Environmental Protection shall prescribe emission standards for air pollutants, taking into account the best available technology and international standards."
+    },
+    {
+      "provision_ref": "sec17",
+      "section": "17",
+      "title": "Monitoring and Reporting",
+      "content": "Section 17. A holder of an emission permit shall monitor emissions in accordance with the conditions of the permit and shall report the monitoring results to the Ministry of Environmental Protection."
+    }
+  ],
+  "definitions": []
+}

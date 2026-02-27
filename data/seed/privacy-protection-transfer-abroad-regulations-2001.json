@@ -1,0 +1,39 @@
+{
+  "id": "privacy-protection-transfer-abroad-regulations-2001",
+  "type": "statute",
+  "title": "תקנות הגנת הפרטיות (העברת מידע למאגרי מידע שמחוץ לישראל), תס\"א-2001",
+  "title_en": "Protection of Privacy (Transfer of Data to Databases Abroad) Regulations, 5761-2001",
+  "short_name": "DTBR",
+  "status": "in_force",
+  "issued_date": "2001-01-01",
+  "in_force_date": "2001-01-01",
+  "url": "https://www.nevo.co.il/law_html/law01/999_609.htm",
+  "description": "The Protection of Privacy (Transfer of Data to Databases Abroad) Regulations 5761-2001 regulate cross-border transfers of personal data from Israel. They establish conditions for data transfers, including adequacy requirements, consent, and contractual safeguards. These regulations implement Section 36 of the Privacy Protection Law and align with international data protection standards.",
+  "provisions": [
+    {
+      "provision_ref": "reg1",
+      "section": "1",
+      "title": "Scope",
+      "content": "Regulation 1. These Regulations apply to the transfer of personal data from a database in Israel to a database outside of Israel."
+    },
+    {
+      "provision_ref": "reg2",
+      "section": "2",
+      "title": "Conditions for Transfer",
+      "content": "Regulation 2. Personal data may be transferred to a database abroad if: (a) the law of the receiving country provides a level of protection of personal data not lower than the level provided under Israeli law; (b) the data subject has consented to the transfer; (c) the transfer is made pursuant to a contract that ensures protection of privacy substantially equivalent to Israeli law; (d) the transfer is necessary for the performance of a contract to which the data subject is a party."
+    },
+    {
+      "provision_ref": "reg3",
+      "section": "3",
+      "title": "Adequate Protection",
+      "content": "Regulation 3. In determining whether a country provides adequate protection, the following factors shall be considered: (a) the nature of the data; (b) the purpose of the transfer; (c) the relevant laws and regulations of the receiving country; (d) the enforcement mechanisms in the receiving country; (e) the security measures applied to the data in the receiving country."
+    },
+    {
+      "provision_ref": "reg4",
+      "section": "4",
+      "title": "Contractual Safeguards",
+      "content": "Regulation 4. Where data is transferred on the basis of contractual safeguards, the contract shall include provisions ensuring: (a) the data will be used only for the purposes for which it was transferred; (b) the recipient will maintain the security of the data; (c) the data will not be further transferred without adequate protection; (d) the data subject's rights will be respected."
+    }
+  ],
+  "definitions": []
+}

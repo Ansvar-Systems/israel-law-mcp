@@ -1,0 +1,50 @@
+{
+  "id": "terror-financing-prohibition-law-2005",
+  "type": "statute",
+  "title": "חוק איסור מימון טרור, תשס\"ה-2005",
+  "title_en": "Prohibition on Terror Financing Law, 5765-2005",
+  "short_name": "TFL",
+  "status": "in_force",
+  "issued_date": "2005-01-01",
+  "in_force_date": "2005-01-01",
+  "url": "https://www.nevo.co.il/law_html/law01/999_627.htm",
+  "description": "The Prohibition on Terror Financing Law 5765-2005 criminalizes the financing of terrorism and provides for the designation and freezing of terrorist assets. It implements UN Security Council Resolution 1373 and FATF standards on combating terror financing.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "Section 1. In this Law: \"terrorist act\" - an act of violence or threat of violence against a person or property, or an act that endangers the life of a person, committed with the intention of advancing a political, religious, or ideological cause, or to intimidate the public; \"terror financing\" - providing, collecting, or making available financial resources or financial services with the knowledge or intent that they will be used to commit or support a terrorist act."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Prohibition of Terror Financing",
+      "content": "Section 2. A person who provides, collects, or makes available financial resources or financial services, knowing or intending that they be used to commit or support a terrorist act, commits an offense punishable by imprisonment."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Designation Orders",
+      "content": "Section 3. The Minister of Defense may, by order, designate a person or organization as a terrorist entity if there are reasonable grounds to believe that the person or organization is involved in terrorism or terror financing."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "Freezing of Assets",
+      "content": "Section 5. Upon designation, all property of the designated entity shall be frozen. No person shall make financial resources or financial services available to a designated entity."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "terrorist act",
+      "definition": "An act of violence or threat committed with the intention of advancing a political, religious, or ideological cause, or to intimidate the public",
+      "source_provision": "sec1"
+    },
+    {
+      "term": "terror financing",
+      "definition": "Providing, collecting, or making available financial resources or financial services with the knowledge or intent that they will be used for terrorist acts",
+      "source_provision": "sec1"
+    }
+  ]
+}

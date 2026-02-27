@@ -1,0 +1,45 @@
+{
+  "id": "civil-wrongs-ordinance-1968",
+  "type": "statute",
+  "title": "פקודת הנזיקין [נוסח חדש], תשכ\"ט-1968",
+  "title_en": "Civil Wrongs Ordinance (New Version), 5728-1968",
+  "short_name": "CWO",
+  "status": "in_force",
+  "issued_date": "1968-01-01",
+  "in_force_date": "1968-01-01",
+  "url": "https://www.nevo.co.il/law_html/law01/p230_001.htm",
+  "description": "The Civil Wrongs Ordinance (New Version) 5728-1968 is the primary tort law statute in Israel. It establishes the framework for negligence, breach of statutory duty, trespass, nuisance, defamation, and other civil wrongs. Relevant to data breach liability, negligent data handling, and cybersecurity malpractice claims.",
+  "provisions": [
+    {
+      "provision_ref": "sec35",
+      "section": "35",
+      "title": "Negligence",
+      "content": "Section 35. If a person does an act that a reasonable person would not do in the same circumstances, or fails to do an act that a reasonable person would do, and thereby causes damage to another, that constitutes negligence."
+    },
+    {
+      "provision_ref": "sec36",
+      "section": "36",
+      "title": "Duty of Care",
+      "content": "Section 36. A person owes a duty of care to another if a reasonable person in the same position ought to have foreseen that the other might be harmed by the act or omission in the circumstances of the case."
+    },
+    {
+      "provision_ref": "sec63",
+      "section": "63",
+      "title": "Breach of Statutory Duty",
+      "content": "Section 63. Where a statute prescribes a duty and its breach is actionable, a person who breaches the statutory duty is liable in tort to any person who suffers damage as a result of the breach, if the statute was intended for the protection of that person."
+    },
+    {
+      "provision_ref": "sec68",
+      "section": "68",
+      "title": "Measure of Damages",
+      "content": "Section 68. In an action in tort, the court shall award damages as will, so far as money can do, restore the injured party to the position he would have been in had the tort not been committed."
+    },
+    {
+      "provision_ref": "sec76",
+      "section": "76",
+      "title": "Contributory Negligence",
+      "content": "Section 76. Where the injured party contributed to the damage by his own negligence, the court shall apportion liability between the parties according to the degree of responsibility of each."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,51 @@
+{
+  "id": "banking-licensing-law-1981",
+  "type": "statute",
+  "title": "חוק הבנקאות (רישוי), תשמ\"א-1981",
+  "title_en": "Banking (Licensing) Law, 5741-1981",
+  "short_name": "BLL",
+  "status": "in_force",
+  "issued_date": "1981-01-01",
+  "in_force_date": "1981-01-01",
+  "url": "https://www.nevo.co.il/law_html/law01/999_076.htm",
+  "description": "The Banking (Licensing) Law 5741-1981 modernizes the banking licensing regime in Israel. It establishes requirements for obtaining and maintaining a banking license, capital adequacy requirements, and supervisory powers of the Bank of Israel. The law addresses information security obligations, requiring banks to implement protective measures for customer data and financial systems.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "Section 1. Definitions. In this Law: \"banking corporation\" - a body corporate licensed to carry on banking business in Israel; \"auxiliary corporation\" - a corporation controlled by a banking corporation that provides services ancillary to banking."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "License Requirement",
+      "content": "Section 3. No body corporate shall carry on banking business in Israel unless it has been granted a license by the Governor of the Bank of Israel."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "Capital Requirements",
+      "content": "Section 5. The Governor may prescribe minimum capital requirements for banking corporations, taking into account the nature and extent of the corporation's activities and the risks to which it is exposed."
+    },
+    {
+      "provision_ref": "sec14",
+      "section": "14",
+      "title": "Risk Management",
+      "content": "Section 14. A banking corporation shall maintain adequate systems for risk management, internal controls, compliance, and information security, as prescribed by the Supervisor of Banks."
+    },
+    {
+      "provision_ref": "sec27",
+      "section": "27",
+      "title": "Outsourcing",
+      "content": "Section 27. A banking corporation that outsources any of its activities shall ensure that the outsourcing arrangements comply with requirements prescribed by the Supervisor, including data protection and information security requirements."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "banking corporation",
+      "definition": "A body corporate licensed to carry on banking business in Israel",
+      "source_provision": "sec1"
+    }
+  ]
+}

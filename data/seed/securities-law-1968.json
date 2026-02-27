@@ -1,0 +1,67 @@
+{
+  "id": "securities-law-1968",
+  "type": "statute",
+  "title": "חוק ניירות ערך, תשכ\"ח-1968",
+  "title_en": "Securities Law, 5728-1968",
+  "short_name": "SecL",
+  "status": "in_force",
+  "issued_date": "1968-08-20",
+  "in_force_date": "1968-08-20",
+  "url": "https://www.nevo.co.il/law_html/law01/055_001.htm",
+  "description": "The Securities Law 5728-1968 regulates the issuance and trading of securities in Israel. It establishes the Israel Securities Authority (ISA), mandates prospectus requirements, continuous disclosure obligations for public companies, insider trading prohibitions, and corporate governance requirements. ISA Cyber Risk Management Directive (2017) supplements this law with cybersecurity reporting requirements for public companies.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "Section 1. Definitions. In this Law: \"securities\" - shares, debentures, and any other rights in a body corporate, including options and warrants; \"stock exchange\" - the Tel Aviv Stock Exchange or any stock exchange recognized under this Law; \"Israel Securities Authority\" (ISA) - the statutory authority established under this Law to regulate securities markets."
+    },
+    {
+      "provision_ref": "sec15",
+      "section": "15",
+      "title": "Prospectus Requirement",
+      "content": "Section 15. Prospectus Requirement. (a) No person shall offer securities to the public except by way of a prospectus approved by the Authority. (b) A prospectus shall contain all material information necessary for a reasonable investor to decide whether to purchase the securities."
+    },
+    {
+      "provision_ref": "sec36",
+      "section": "36",
+      "title": "Continuous Disclosure",
+      "content": "Section 36. Continuous Disclosure. (a) A reporting corporation shall file with the Authority and the stock exchange periodic reports, immediate reports, and any other report as prescribed by regulations. (b) Reports shall include material information about the corporation, including risks to its operations, financial condition, and information systems."
+    },
+    {
+      "provision_ref": "sec52A",
+      "section": "52A",
+      "title": "Insider Trading Prohibition",
+      "content": "Section 52A. Insider Trading. (a) No insider of a company shall trade in securities of that company while in possession of inside information. (b) \"inside information\" means information about a company that is not known to the public and which, if known, would significantly affect the price of the company's securities."
+    },
+    {
+      "provision_ref": "sec52B",
+      "section": "52B",
+      "title": "Tipping Prohibition",
+      "content": "Section 52B. Tipping. An insider shall not convey inside information to another person if there is a reasonable possibility that the recipient will use the information for trading in securities."
+    },
+    {
+      "provision_ref": "sec56",
+      "section": "56",
+      "title": "Enforcement Powers",
+      "content": "Section 56. The Authority may conduct investigations, issue administrative orders, impose monetary sanctions, and refer matters for criminal prosecution in cases of violations of this Law."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "securities",
+      "definition": "Shares, debentures, and any other rights in a body corporate, including options and warrants",
+      "source_provision": "sec1"
+    },
+    {
+      "term": "Israel Securities Authority",
+      "definition": "The statutory authority established under the Securities Law to regulate securities markets",
+      "source_provision": "sec1"
+    },
+    {
+      "term": "inside information",
+      "definition": "Information about a company that is not known to the public and which, if known, would significantly affect the price of the company's securities",
+      "source_provision": "sec52A"
+    }
+  ]
+}

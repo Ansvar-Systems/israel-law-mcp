@@ -1,0 +1,33 @@
+{
+  "id": "employment-equal-opportunities-law-1988",
+  "type": "statute",
+  "title": "חוק שוויון הזדמנויות בעבודה, תשמ\"ח-1988",
+  "title_en": "Employment (Equal Opportunities) Law, 5748-1988",
+  "short_name": "EEOL",
+  "status": "in_force",
+  "issued_date": "1988-03-01",
+  "in_force_date": "1988-03-01",
+  "url": "https://www.nevo.co.il/law_html/law01/999_138.htm",
+  "description": "The Employment (Equal Opportunities) Law 5748-1988 prohibits discrimination in employment on various grounds including sex, sexual orientation, age, race, religion, nationality, country of origin, pregnancy, parenthood, fertility treatments, and disability. It addresses hiring, terms of employment, promotion, training, dismissal, and severance.",
+  "provisions": [
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Prohibited Discrimination",
+      "content": "Section 2. (a) An employer shall not discriminate among employees or job applicants on the basis of sex, sexual orientation, personal status, pregnancy, fertility treatment, parenthood, age, race, religion, nationality, country of origin, views, political party, or military reserve service."
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "Sexual Harassment",
+      "content": "Section 7. An employer shall take reasonable measures to prevent sexual harassment and the abuse of authority in the workplace, in accordance with the Prevention of Sexual Harassment Law."
+    },
+    {
+      "provision_ref": "sec9",
+      "section": "9",
+      "title": "Remedies",
+      "content": "Section 9. A labor court may order compensation of up to 50,000 NIS (without proof of damage) against an employer found to have discriminated in violation of this Law."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "taxation-ordinance-1961",
+  "type": "statute",
+  "title": "פקודת מס הכנסה [נוסח חדש], תשכ\"א-1961",
+  "title_en": "Income Tax Ordinance (New Version), 5721-1961",
+  "short_name": "ITO",
+  "status": "in_force",
+  "issued_date": "1961-01-01",
+  "in_force_date": "1961-01-01",
+  "url": "https://www.nevo.co.il/law_html/law01/p222_001.htm",
+  "description": "The Income Tax Ordinance (New Version) 5721-1961 is the primary income tax legislation in Israel. It covers taxation of individuals and corporations, tax rates, deductions, exemptions, and reporting obligations. Relevant to technology company tax incentives and transfer pricing of intellectual property.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "Section 1. In this Ordinance: \"income\" - the total amount of income of a person from all sources during a tax year; \"assessor\" - the Assessing Officer responsible for determining tax liability."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Taxable Income",
+      "content": "Section 2. Income tax shall be levied on the taxable income of every person, as computed in accordance with this Ordinance, for each tax year."
+    },
+    {
+      "provision_ref": "sec131",
+      "section": "131",
+      "title": "Reporting Obligations",
+      "content": "Section 131. Every person liable to tax under this Ordinance shall file a return of income in the form prescribed, including details of all income, deductions, and other information required by the Assessing Officer."
+    },
+    {
+      "provision_ref": "sec135",
+      "section": "135",
+      "title": "Confidentiality of Tax Information",
+      "content": "Section 135. Tax information obtained by the tax authorities in the course of assessment shall be treated as confidential. No tax official shall disclose such information except as provided by law."
+    },
+    {
+      "provision_ref": "sec234",
+      "section": "234",
+      "title": "Penalties",
+      "content": "Section 234. A person who fails to file a return, files a false return, or evades tax is liable to fines and imprisonment as prescribed in this Ordinance."
+    }
+  ],
+  "definitions": []
+}

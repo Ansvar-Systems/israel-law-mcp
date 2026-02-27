@@ -1,0 +1,33 @@
+{
+  "id": "emergency-powers-detention-law-1979",
+  "type": "statute",
+  "title": "חוק סמכויות שעת חירום (מעצרים), תשל\"י-1979",
+  "title_en": "Emergency Powers (Detention) Law, 5739-1979",
+  "short_name": "EPDL",
+  "status": "in_force",
+  "issued_date": "1979-01-01",
+  "in_force_date": "1979-01-01",
+  "url": "https://www.nevo.co.il/law_html/law01/073_006.htm",
+  "description": "The Emergency Powers (Detention) Law 5739-1979 authorizes administrative detention during states of emergency. It sets conditions for detention orders, judicial review requirements, and maximum detention periods. The law operates under the framework of the Basic Law: The Government emergency powers provisions.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "Section 1. In this Law: \"detention order\" - an order issued by the Minister of Defense for the detention of a person; \"state of emergency\" - a state of emergency declared under the Basic Law: The Government."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Power to Detain",
+      "content": "Section 2. During a state of emergency, the Minister of Defense may, by order, detain a person for a period not exceeding 6 months if the Minister has reasonable grounds to believe that the detention is necessary for reasons of state security or public safety."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Judicial Review",
+      "content": "Section 4. (a) A person detained under this Law shall be brought before a judge within 48 hours of detention. (b) The judge shall review the detention and may confirm, modify, or cancel the detention order."
+    }
+  ],
+  "definitions": []
+}

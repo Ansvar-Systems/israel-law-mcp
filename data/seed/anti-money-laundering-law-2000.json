@@ -1,0 +1,67 @@
+{
+  "id": "anti-money-laundering-law-2000",
+  "type": "statute",
+  "title": "חוק איסור הלבנת הון, תש\"ס-2000",
+  "title_en": "Prohibition of Money Laundering Law, 5760-2000",
+  "short_name": "AML",
+  "status": "in_force",
+  "issued_date": "2000-08-03",
+  "in_force_date": "2002-02-17",
+  "url": "https://www.nevo.co.il/law_html/law01/999_207.htm",
+  "description": "The Prohibition of Money Laundering Law 5760-2000 criminalizes money laundering and establishes the Israel Money Laundering and Terror Financing Prohibition Authority (IMPA). It mandates customer due diligence (KYC), suspicious activity reporting, and record-keeping obligations for financial institutions. The law implements FATF recommendations and includes data handling and information-sharing provisions.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "Section 1. In this Law: \"laundering offense\" - an act performed with property derived from a predicate offense, with the purpose of concealing or disguising the illicit origin of the property, the identity of the rights holders, or the source, location, disposition, or movement of such property; \"predicate offense\" - an offense listed in the First Schedule to this Law; \"Authority\" - the Israel Money Laundering and Terror Financing Prohibition Authority."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Prohibition of Money Laundering",
+      "content": "Section 2. (a) A person who performs a transaction in property or provides a financial service in connection with property knowing it to be derived from a predicate offense, with the purpose of concealing or disguising its origin, commits a money laundering offense. (b) A person who performs a transaction in property, knowing it to be property in which a money laundering offense was committed, commits a money laundering offense."
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "Customer Identification",
+      "content": "Section 7. (a) Financial institutions shall identify and verify the identity of their customers before establishing a business relationship or conducting a transaction. (b) Financial institutions shall identify the beneficial owner of the property involved in the transaction."
+    },
+    {
+      "provision_ref": "sec9",
+      "section": "9",
+      "title": "Reporting Obligations",
+      "content": "Section 9. (a) Financial institutions shall report to the Authority any unusual transaction or any transaction that the institution has reason to suspect involves property derived from an offense. (b) Reports shall be made in the form and manner prescribed by the Authority."
+    },
+    {
+      "provision_ref": "sec10",
+      "section": "10",
+      "title": "Record Keeping",
+      "content": "Section 10. Financial institutions shall maintain records of customer identification documents and transaction records for a period of not less than 7 years from the date of the transaction or the termination of the business relationship."
+    },
+    {
+      "provision_ref": "sec25",
+      "section": "25",
+      "title": "Information Sharing",
+      "content": "Section 25. The Authority may share information with foreign counterpart authorities pursuant to international agreements, subject to conditions prescribed to protect the confidentiality of the information and the rights of individuals."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "laundering offense",
+      "definition": "An act performed with property derived from a predicate offense, with the purpose of concealing or disguising the illicit origin of the property",
+      "source_provision": "sec1"
+    },
+    {
+      "term": "predicate offense",
+      "definition": "An offense listed in the First Schedule to the Prohibition of Money Laundering Law",
+      "source_provision": "sec1"
+    },
+    {
+      "term": "Authority",
+      "definition": "The Israel Money Laundering and Terror Financing Prohibition Authority",
+      "source_provision": "sec1"
+    }
+  ]
+}

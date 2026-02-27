@@ -1,0 +1,51 @@
+{
+  "id": "patent-law-1967",
+  "type": "statute",
+  "title": "חוק הפטנטים, תשכ\"ז-1967",
+  "title_en": "Patents Law, 5727-1967",
+  "short_name": "PatL",
+  "status": "in_force",
+  "issued_date": "1967-04-04",
+  "in_force_date": "1968-04-04",
+  "url": "https://www.nevo.co.il/law_html/law01/050_001.htm",
+  "description": "The Patents Law 5727-1967 governs the patent system in Israel. It establishes requirements for patentability (novelty, inventive step, industrial application), the patent application process, rights of patent holders, compulsory licensing, and enforcement. Israel is a member of the Patent Cooperation Treaty (PCT).",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "Section 1. In this Law: \"invention\" - a product, including a microbiological product, or a process in any field of technology, which is new, involves an inventive step, and is industrially applicable; \"patent\" - a patent granted under this Law."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Patentable Inventions",
+      "content": "Section 3. An invention is patentable if it is new, involves an inventive step, and is capable of industrial application."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Novelty",
+      "content": "Section 4. An invention is considered new if it was not known to the public in Israel or elsewhere before the date of the patent application, whether by written or oral publication, by use, or in any other manner."
+    },
+    {
+      "provision_ref": "sec49",
+      "section": "49",
+      "title": "Rights Conferred by Patent",
+      "content": "Section 49. A patent holder has the exclusive right to exploit the patented invention, including the right to manufacture, use, offer for sale, sell, or import the patented product or process."
+    },
+    {
+      "provision_ref": "sec117",
+      "section": "117",
+      "title": "Compulsory License",
+      "content": "Section 117. The Patent Registrar may grant a compulsory license for the exploitation of a patented invention if: (a) three years have elapsed since the grant of the patent and the patent is not being exploited in Israel to a reasonable extent; (b) the grant of a compulsory license is necessary for the public interest."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "invention",
+      "definition": "A product or process in any field of technology, which is new, involves an inventive step, and is industrially applicable",
+      "source_provision": "sec1"
+    }
+  ]
+}

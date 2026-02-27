@@ -1,0 +1,39 @@
+{
+  "id": "defense-service-law-1986",
+  "type": "statute",
+  "title": "חוק שירות ביטחון [נוסח משולב], תשמ\"ז-1986",
+  "title_en": "Defense Service Law (Consolidated Version), 5746-1986",
+  "short_name": "DSL",
+  "status": "in_force",
+  "issued_date": "1986-01-01",
+  "in_force_date": "1986-01-01",
+  "url": "https://www.nevo.co.il/law_html/law01/999_114.htm",
+  "description": "The Defense Service Law (Consolidated Version) 5746-1986 regulates compulsory military service, reserve duty, and exemptions from service in Israel. It implements the constitutional framework established by Basic Law: The Military.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Duty of Service",
+      "content": "Section 1. Every Israeli citizen and permanent resident who has reached the age of 18 and has not been exempted or deferred is liable for defense service."
+    },
+    {
+      "provision_ref": "sec13",
+      "section": "13",
+      "title": "Exemptions",
+      "content": "Section 13. The Minister of Defense may exempt from service persons who are medically unfit, persons who serve in other security forces, and other categories prescribed by law."
+    },
+    {
+      "provision_ref": "sec20",
+      "section": "20",
+      "title": "Reserve Service",
+      "content": "Section 20. A person who has completed regular service is liable for reserve service until the age prescribed by law. Reserve service shall not exceed the maximum number of days prescribed per year."
+    },
+    {
+      "provision_ref": "sec46",
+      "section": "46",
+      "title": "Confidentiality",
+      "content": "Section 46. Information obtained in the course of defense service regarding military matters, security matters, or personal information of service members shall be treated as confidential."
+    }
+  ],
+  "definitions": []
+}

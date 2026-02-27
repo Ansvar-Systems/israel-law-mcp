@@ -1,0 +1,45 @@
+{
+  "id": "basic-law-the-army-1976",
+  "type": "statute",
+  "title": "חוק יסוד: הצבא",
+  "title_en": "Basic Law: The Military, 5736-1976",
+  "short_name": "BL-MIL",
+  "status": "in_force",
+  "issued_date": "1976-04-01",
+  "in_force_date": "1976-04-01",
+  "url": "https://www.knesset.gov.il/laws/special/eng/BasicLawArmy.pdf",
+  "description": "Basic Law: The Military (5736-1976) establishes the constitutional framework for the Israel Defense Forces (IDF). It defines the army as subject to the authority of the Government, regulates military service obligations, and provides the constitutional basis for the Defense Service Law.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Army of the State",
+      "content": "Section 1. The defense army of Israel is the army of the State."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Subordination to Government",
+      "content": "Section 2. The army is subject to the authority of the Government."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Minister of Defense",
+      "content": "Section 3. The Minister charged with the army on behalf of the Government is the Minister of Defense."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Chief of Staff",
+      "content": "Section 4. The supreme command level in the army is the Chief of the General Staff. The Chief of the General Staff is subject to the authority of the Government and subordinate to the Minister of Defense."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "Duty of Service",
+      "content": "Section 5. The duty to serve in the army and the conditions of such service shall be prescribed by law or by regulations made by virtue of law."
+    }
+  ],
+  "definitions": []
+}

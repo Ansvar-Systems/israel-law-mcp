@@ -1,0 +1,33 @@
+{
+  "id": "administrative-courts-law-2000",
+  "type": "statute",
+  "title": "חוק בתי משפט לעניינים מינהליים, תש\"ס-2000",
+  "title_en": "Administrative Courts Law, 5760-2000",
+  "short_name": "ACL",
+  "status": "in_force",
+  "issued_date": "2000-07-25",
+  "in_force_date": "2004-09-01",
+  "url": "https://www.nevo.co.il/law_html/law01/999_206.htm",
+  "description": "The Administrative Courts Law 5760-2000 establishes the jurisdiction and procedure of administrative courts in Israel. These courts hear appeals against administrative decisions, including decisions by regulatory authorities such as the Privacy Protection Authority, the Israel Securities Authority, and telecommunications regulators.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Administrative Courts",
+      "content": "Section 1. Administrative courts are divisions of the District Courts designated to hear administrative matters as specified in this Law and the schedules hereto."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "Jurisdiction",
+      "content": "Section 5. Administrative courts have jurisdiction over petitions and appeals against decisions of administrative authorities as specified in the schedules to this Law, including licensing decisions, regulatory orders, and enforcement actions."
+    },
+    {
+      "provision_ref": "sec8",
+      "section": "8",
+      "title": "Procedure",
+      "content": "Section 8. Administrative court proceedings shall be conducted in accordance with the rules prescribed by the Minister of Justice, with due regard to the special nature of administrative adjudication."
+    }
+  ],
+  "definitions": []
+}

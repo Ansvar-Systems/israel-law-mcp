@@ -1,0 +1,51 @@
+{
+  "id": "contracts-general-part-law-1973",
+  "type": "statute",
+  "title": "חוק החוזים (חלק כללי), תשל\"ד-1973",
+  "title_en": "Contracts (General Part) Law, 5733-1973",
+  "short_name": "CGL",
+  "status": "in_force",
+  "issued_date": "1973-04-10",
+  "in_force_date": "1973-04-10",
+  "url": "https://www.nevo.co.il/law_html/law01/067_001.htm",
+  "description": "The Contracts (General Part) Law 5733-1973 establishes the general principles of contract law in Israel. It governs the formation, interpretation, validity, and performance of contracts, including electronic contracts and digital agreements.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Formation of Contract",
+      "content": "Section 1. A contract is formed by an offer made by one person to another and acceptance of the offer by the offeree."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Offer",
+      "content": "Section 2. An offer to enter into a contract is a proposal made by one person to another expressing willingness to enter into a contract on specified terms."
+    },
+    {
+      "provision_ref": "sec12",
+      "section": "12",
+      "title": "Good Faith",
+      "content": "Section 12. (a) In negotiating a contract, each party shall act in good faith and in a customary manner. (b) A party who does not act in good faith is liable for damage caused to the other party through reliance on the negotiation."
+    },
+    {
+      "provision_ref": "sec14",
+      "section": "14",
+      "title": "Mistake",
+      "content": "Section 14. (a) A contract made as a result of a mistake may be voidable if the mistake was material and the other party knew or should have known of the mistake. (b) A contract made as a result of a fundamental mistake, shared by both parties, may be void."
+    },
+    {
+      "provision_ref": "sec25",
+      "section": "25",
+      "title": "Interpretation",
+      "content": "Section 25. A contract shall be interpreted according to the intention of the parties as evident from the contract, read as a whole, and in the light of the surrounding circumstances."
+    },
+    {
+      "provision_ref": "sec39",
+      "section": "39",
+      "title": "Performance in Good Faith",
+      "content": "Section 39. In performing a contractual obligation and exercising a contractual right, each party shall act in good faith and in a customary manner."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "basic-law-israel-lands-1960",
+  "type": "statute",
+  "title": "חוק יסוד: מקרקעי ישראל",
+  "title_en": "Basic Law: Israel Lands, 5720-1960",
+  "short_name": "BL-IL",
+  "status": "in_force",
+  "issued_date": "1960-07-25",
+  "in_force_date": "1960-07-25",
+  "url": "https://m.knesset.gov.il/EN/activity/documents/BasicLawsPDF/BasicLawIsraelLands.pdf",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Prohibition of ownership transfer",
+      "content": "The ownership of Israel’s Lands, which is the real estate belonging to the State, the Development Authority, or the Jewish National Fund, shall not be transferred, whether by means of sale, or in any other manner. Permission by law"
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Permission by law",
+      "content": "Article 1 shall not apply to categories of real estate and categories of transactions prescribed on this matter by law. Definition"
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Definition",
+      "content": "In this law \"real estate\" – land, houses, buildings, and anything permanently attached to the ground."
+    }
+  ],
+  "definitions": []
+}

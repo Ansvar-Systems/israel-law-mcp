@@ -218,6 +218,7 @@ export interface SourceConfig {
  * These are verified to be reachable without Cloudflare blocks.
  */
 export const SOURCE_REGISTRY: Record<string, SourceConfig> = {
+  // ── Full-text sources (HTML / PDF) ──────────────────────────────
   'privacy-protection-law-1981': {
     url: 'https://ics.uci.edu/~kobsa/privacy/israel.htm',
     format: 'html',
@@ -230,10 +231,61 @@ export const SOURCE_REGISTRY: Record<string, SourceConfig> = {
     knessetLawId: 2000357,
     sourceNote: 'UNODC SHERLOC database English translation',
   },
+
+  // ── Basic Laws (all from official Knesset English PDFs) ─────────
   'basic-law-human-dignity-1992': {
     url: 'https://m.knesset.gov.il/EN/activity/documents/BasicLawsPDF/BasicLawLiberty.pdf',
     format: 'pdf',
-    knessetLawId: undefined, // Basic Laws have different numbering
+    sourceNote: 'Official Knesset English translation PDF',
+  },
+  'basic-law-the-knesset-1958': {
+    url: 'https://m.knesset.gov.il/EN/activity/documents/BasicLawsPDF/BasicLawTheKnesset.pdf',
+    format: 'pdf',
+    sourceNote: 'Official Knesset English translation PDF',
+  },
+  'basic-law-israel-lands-1960': {
+    url: 'https://m.knesset.gov.il/EN/activity/documents/BasicLawsPDF/BasicLawIsraelLands.pdf',
+    format: 'pdf',
+    sourceNote: 'Official Knesset English translation PDF',
+  },
+  'basic-law-the-president-1964': {
+    url: 'https://m.knesset.gov.il/EN/activity/documents/BasicLawsPDF/BasicLawThePresident.pdf',
+    format: 'pdf',
+    sourceNote: 'Official Knesset English translation PDF',
+  },
+  'basic-law-the-government-2001': {
+    url: 'https://m.knesset.gov.il/EN/activity/documents/BasicLawsPDF/BasicLawTheGovernment.pdf',
+    format: 'pdf',
+    sourceNote: 'Official Knesset English translation PDF',
+  },
+  'basic-law-the-state-economy-1975': {
+    url: 'https://m.knesset.gov.il/EN/activity/documents/BasicLawsPDF/BasicLawStateEconomy.pdf',
+    format: 'pdf',
+    sourceNote: 'Official Knesset English translation PDF',
+  },
+  'basic-law-the-judiciary-1984': {
+    url: 'https://m.knesset.gov.il/EN/activity/documents/BasicLawsPDF/BasicLawTheJudiciary.pdf',
+    format: 'pdf',
+    sourceNote: 'Official Knesset English translation PDF',
+  },
+  'basic-law-jerusalem-1980': {
+    url: 'https://m.knesset.gov.il/EN/activity/documents/BasicLawsPDF/BasicLawJerusalem.pdf',
+    format: 'pdf',
+    sourceNote: 'Official Knesset English translation PDF',
+  },
+  'basic-law-freedom-of-occupation-1994': {
+    url: 'https://m.knesset.gov.il/EN/activity/documents/BasicLawsPDF/BasicLawOccupation.pdf',
+    format: 'pdf',
+    sourceNote: 'Official Knesset English translation PDF',
+  },
+  'basic-law-referendum-2014': {
+    url: 'https://m.knesset.gov.il/EN/activity/documents/BasicLawsPDF/BasicLawReferendum.pdf',
+    format: 'pdf',
+    sourceNote: 'Official Knesset English translation PDF',
+  },
+  'basic-law-nation-state-2018': {
+    url: 'https://m.knesset.gov.il/EN/activity/documents/BasicLawsPDF/BasicLawNationState.pdf',
+    format: 'pdf',
     sourceNote: 'Official Knesset English translation PDF',
   },
 };

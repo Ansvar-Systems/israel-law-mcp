@@ -1,0 +1,50 @@
+{
+  "id": "trademarks-ordinance-1972",
+  "type": "statute",
+  "title": "פקודת סימני מסחר [נוסח חדש], תשל\"ב-1972",
+  "title_en": "Trademarks Ordinance (New Version), 5732-1972",
+  "short_name": "TMO",
+  "status": "in_force",
+  "issued_date": "1972-01-01",
+  "in_force_date": "1972-01-01",
+  "url": "https://www.nevo.co.il/law_html/law01/p233_001.htm",
+  "description": "The Trademarks Ordinance (New Version) 5732-1972 governs trademark registration and protection in Israel. It establishes the trademark registry, registration requirements, rights of trademark owners, and enforcement mechanisms. Israel is a member of the Madrid Protocol for international trademark registration.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "Section 1. In this Ordinance: \"mark\" includes a word, design, letters, numerals, a shape of goods or their packaging, a color, or any combination thereof; \"trademark\" - a mark used by a person in relation to goods or services for the purpose of indicating a connection between the goods or services and that person."
+    },
+    {
+      "provision_ref": "sec8",
+      "section": "8",
+      "title": "Registrable Marks",
+      "content": "Section 8. A mark is registrable as a trademark if it is distinctive and is not identical or confusingly similar to an existing registered mark for the same or similar goods or services."
+    },
+    {
+      "provision_ref": "sec46",
+      "section": "46",
+      "title": "Rights of Registered Owner",
+      "content": "Section 46. Registration of a trademark gives the registered owner the exclusive right to use the mark in relation to the goods or services for which it is registered."
+    },
+    {
+      "provision_ref": "sec60",
+      "section": "60",
+      "title": "Infringement",
+      "content": "Section 60. Unauthorized use of a registered trademark or a mark confusingly similar to it in relation to goods or services for which the trademark is registered constitutes infringement."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "mark",
+      "definition": "A word, design, letters, numerals, a shape of goods or their packaging, a color, or any combination thereof",
+      "source_provision": "sec1"
+    },
+    {
+      "term": "trademark",
+      "definition": "A mark used in relation to goods or services to indicate a connection between the goods or services and a person",
+      "source_provision": "sec1"
+    }
+  ]
+}

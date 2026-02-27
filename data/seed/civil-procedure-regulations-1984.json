@@ -1,0 +1,39 @@
+{
+  "id": "civil-procedure-regulations-1984",
+  "type": "statute",
+  "title": "תקנות סדר הדין האזרחי, תשמ\"ד-1984",
+  "title_en": "Civil Procedure Regulations, 5744-1984",
+  "short_name": "CPR",
+  "status": "in_force",
+  "issued_date": "1984-01-01",
+  "in_force_date": "1984-01-01",
+  "url": "https://www.nevo.co.il/law_html/law01/999_103.htm",
+  "description": "The Civil Procedure Regulations 5744-1984 govern civil litigation procedures in Israeli courts. They address pleadings, discovery, interim remedies, trial procedure, evidence, and enforcement of judgments. The regulations include provisions on electronic filing and electronic discovery.",
+  "provisions": [
+    {
+      "provision_ref": "reg1",
+      "section": "1",
+      "title": "Scope",
+      "content": "Regulation 1. These Regulations apply to all civil proceedings in the Magistrate's Courts and District Courts of Israel."
+    },
+    {
+      "provision_ref": "reg30",
+      "section": "30",
+      "title": "Discovery",
+      "content": "Regulation 30. (a) After the filing of a defense, either party may serve a notice on the other requiring the production of documents relevant to the case. (b) The notice may specify categories of documents, including electronic documents and computer records."
+    },
+    {
+      "provision_ref": "reg362",
+      "section": "362",
+      "title": "Interim Injunctions",
+      "content": "Regulation 362. The court may grant an interim injunction restraining a party from performing an act or requiring a party to perform an act, if the court is satisfied that the applicant has a prima facie case and the balance of convenience favors the grant of the injunction."
+    },
+    {
+      "provision_ref": "reg500",
+      "section": "500",
+      "title": "Electronic Filing",
+      "content": "Regulation 500. Court documents may be filed electronically through the court's electronic filing system, subject to technical requirements prescribed by the Director of Courts."
+    }
+  ],
+  "definitions": []
+}

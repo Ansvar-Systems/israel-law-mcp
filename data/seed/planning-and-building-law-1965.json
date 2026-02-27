@@ -1,0 +1,45 @@
+{
+  "id": "planning-and-building-law-1965",
+  "type": "statute",
+  "title": "חוק התכנון והבנייה, תשכ\"ו-1965",
+  "title_en": "Planning and Building Law, 5725-1965",
+  "short_name": "PBL",
+  "status": "in_force",
+  "issued_date": "1965-06-26",
+  "in_force_date": "1966-09-12",
+  "url": "https://www.nevo.co.il/law_html/law01/042_001.htm",
+  "description": "The Planning and Building Law 5725-1965 is the primary legislation governing land use planning and building in Israel. It establishes the planning hierarchy (national, district, local), building permit requirements, and enforcement mechanisms. Relevant to infrastructure projects, data center construction, and critical infrastructure siting.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Definitions",
+      "content": "Section 1. In this Law: \"building\" - any construction, including erection, alteration, extension, or demolition of a structure; \"planning institution\" - the National Planning Council, a district planning committee, or a local planning committee."
+    },
+    {
+      "provision_ref": "sec145",
+      "section": "145",
+      "title": "Building Permit Requirement",
+      "content": "Section 145. No person shall carry out building or use land unless a building permit has been issued by the relevant local planning committee."
+    },
+    {
+      "provision_ref": "sec157",
+      "section": "157",
+      "title": "National Infrastructure",
+      "content": "Section 157. The National Planning Council may approve national infrastructure plans that override local and district plans, including plans for telecommunications infrastructure, energy facilities, and defense installations."
+    },
+    {
+      "provision_ref": "sec204",
+      "section": "204",
+      "title": "Enforcement",
+      "content": "Section 204. A planning authority may issue a stop-work order or demolition order in respect of unauthorized building or land use in violation of this Law or a planning scheme."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "building",
+      "definition": "Any construction, including erection, alteration, extension, or demolition of a structure",
+      "source_provision": "sec1"
+    }
+  ]
+}
