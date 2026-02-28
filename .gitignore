@@ -8,3 +8,5 @@ data/source/
 coverage/
 .vercel/
 .DS_Store
+.claude/
+.serena/
